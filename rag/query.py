@@ -158,7 +158,7 @@ class QdrantSearchSystem:
             points_filter = Filter(must=must_conditions) if must_conditions else None
 
             results = self.qdrant_client.search(
-                collection_name="uit_documents",
+                collection_name="uit_documents_without_keywords",
                 query_vector=question_embedding,
                 limit=top_k,
                 query_filter=points_filter,

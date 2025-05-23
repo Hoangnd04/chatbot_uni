@@ -98,11 +98,11 @@ def chunk_multi_year_csv(csv_path: str, output_path: str):
                 "field": field,
                 "year": str(current_year),
                 "department": department,
-                "keywords": found_keywords,
-                "prev_chunk": None,
-                "next_chunk": None,
+                # "keywords": found_keywords,
+                # "prev_chunk": None,
+                # "next_chunk": None,
                 "source": source,
-                "admission_info": admission_info
+                # "admission_info": admission_info
             }
 
             chunks.append(chunk)

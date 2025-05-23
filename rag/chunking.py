@@ -210,11 +210,11 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
                 "field": field,
                 "year": year,
                 "department": department,
-                "keywords": found_keywords,
-                "prev_chunk": None,
-                "next_chunk": None,
+                # "keywords": found_keywords,
+                # "prev_chunk": None,
+                # "next_chunk": None,
                 "source": source,
-                "admission_info": admission_info if field == "tuyển sinh" else {},
+                # "admission_info": admission_info if field == "tuyển sinh" else {},
             }
             result.append(metadata)
 

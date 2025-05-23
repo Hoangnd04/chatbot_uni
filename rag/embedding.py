@@ -17,7 +17,7 @@ class DocEmbedder:
             model_name: str = 'VoVanPhuc/sup-SimCSE-VietNamese-phobert-base',
             qdrant_url: str = os.getenv("QDRANT_URL"),
             qdrant_api_key: str = os.getenv("QDRANT_API_KEY"),
-            collection_name: str = "uit_documents",
+            collection_name: str = "uit_documents_without_keywords",
             vector_size: int = 768,
             distance: str = Distance.COSINE,
     ):
@@ -37,7 +37,7 @@ class DocEmbedder:
             vectors_config=VectorParams(size=self.vector_size, distance=self.distance)
         )
 
-        default_fields = ["field", "year", "department", "keywords", "source"]
+        default_fields = ["field", "year", "department", "source"]
         field_to_index = index_fields if index_fields is not None else default_fields
         
         for field in field_to_index:
@@ -66,9 +66,9 @@ class DocEmbedder:
         for doc, embedding in zip(document, embeddings):
             point_id = str(uuid.uuid4())
 
-            for key in ["keywords", "prev_chunk", "next_chunk"]:
-                if key in doc and not isinstance(doc[key], list):
-                    doc[key] = [doc[key]] if doc[key] else []
+            # for key in ["keywords", "prev_chunk", "next_chunk"]:
+            #     if key in doc and not isinstance(doc[key], list):
+            #         doc[key] = [doc[key]] if doc[key] else []
 
             point = PointStruct(
                 id=point_id,
@@ -81,9 +81,9 @@ class DocEmbedder:
                     "field": doc.get("field", ""),
                     "year": doc.get("year", ""),
                     "department": doc.get("department", ""),
-                    "keywords": doc.get("keywords", []),
-                    "prev_chunk": doc.get("prev_chunk", ""),
-                    "next_chunk": doc.get("next_chunk", ""),
+                    # "keywords": doc.get("keywords", []),
+                    # "prev_chunk": doc.get("prev_chunk", ""),
+                    # "next_chunk": doc.get("next_chunk", ""),
                     "source": doc.get("source", "")
                 }
             )

@@ -276,7 +276,7 @@ if __name__ == "__main__":
     search_engine = HybridSearchQdrant(
         qdrant_url=os.getenv("QDRANT_URL"),
         qdrant_api_key=os.getenv("QDRANT_API_KEY"),
-        collection_name="uit_documents",
+        collection_name="uit_documents_without_keywords",
         embedding_model=model,
         metadata_weight=0.2,
         semantic_weight=0.8
