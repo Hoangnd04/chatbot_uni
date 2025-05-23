@@ -7,14 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học máy tính",
-    "keywords": [
-      "khmt",
-      "truong"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Khoa Học Máy Tính",
@@ -24,16 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học máy tính",
-    "keywords": [
-      "khmt",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_1",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Khoa Học Máy Tính",
@@ -43,17 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học máy tính",
-    "keywords": [
-      "khmt",
-      "ttnt",
-      "ttdpt",
-      "truong",
-      "giang_vien_va_can_bo"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_2",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Khoa Học Máy Tính",
@@ -63,17 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học máy tính",
-    "keywords": [
-      "khdl",
-      "ttnt",
-      "truong",
-      "hoctap",
-      "giang_vien_va_can_bo"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_3",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_5",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Khoa Học Máy Tính",
@@ -83,21 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học máy tính",
-    "keywords": [
-      "cntt",
-      "httt",
-      "khdl",
-      "khmt",
-      "ttnt",
-      "ttdpt",
-      "truong",
-      "hoctap",
-      "giang_vien_va_can_bo"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_4",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_6",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Khoa Học Máy Tính",
@@ -107,17 +57,6 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học máy tính",
-    "keywords": [
-      "khmt",
-      "ktpm",
-      "ttnt",
-      "truong",
-      "hoctap",
-      "giang_vien_va_can_bo"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_5",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-may-tinh.md"
   }
 ]

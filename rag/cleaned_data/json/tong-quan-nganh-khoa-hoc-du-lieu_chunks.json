@@ -7,14 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "khdl",
-      "truong"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -24,16 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "cntt",
-      "khdl",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_1",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -43,15 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "khdl",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_2",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -61,15 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "khdl",
-      "khmt",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_3",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_5",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -79,14 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "httt",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_4",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_6",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -96,13 +57,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "ttnt"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_5",
-    "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_7",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -112,15 +67,6 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "keywords": [
-      "khdl",
-      "khmt",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_6",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   }
 ]

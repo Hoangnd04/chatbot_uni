@@ -7,15 +7,7 @@
     "field": "trường",
     "year": null,
     "department": null,
-    "keywords": [
-      "tuyensinh",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "nganh-dao-tao_chunk_2",
-    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md"
   },
   {
     "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
@@ -25,24 +17,6 @@
     "field": "trường",
     "year": null,
     "department": null,
-    "keywords": [
-      "attt",
-      "cntt",
-      "httt",
-      "khdl",
-      "khmt",
-      "ktmt",
-      "ktpm",
-      "mmtvttdl",
-      "tkvm",
-      "tmdt",
-      "ttnt",
-      "truong",
-      "chungchi"
-    ],
-    "prev_chunk": "nganh-dao-tao_chunk_1",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md"
   }
 ]

@@ -7,15 +7,7 @@
     "field": "học bổng",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "ttnt",
-      "truong",
-      "hoc_bong"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_2",
-    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md"
   },
   {
     "title": "[2024] - Học bổng dành cho sinh viên chương trình BCU Khóa 2024",
@@ -25,15 +17,7 @@
     "field": "học bổng",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "cntt",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_1",
-    "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_3",
-    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md"
   },
   {
     "title": "[2024] - Học bổng dành cho sinh viên chương trình BCU Khóa 2024",
@@ -43,23 +27,7 @@
     "field": "học bổng",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "tuyensinh",
-      "diem",
-      "attt",
-      "khmt",
-      "mmtvttdl",
-      "ttnt",
-      "truong",
-      "chungchi",
-      "giao_duc_pho_thong",
-      "giang_vien_va_can_bo",
-      "hoc_bong"
-    ],
-    "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_2",
-    "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_4",
-    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md"
   },
   {
     "title": "[2024] - Học bổng dành cho sinh viên chương trình BCU Khóa 2024",
@@ -69,15 +37,7 @@
     "field": "học bổng",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "truong",
-      "hoctap",
-      "hoc_bong"
-    ],
-    "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_3",
-    "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_5",
-    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md"
   },
   {
     "title": "[2024] - Học bổng dành cho sinh viên chương trình BCU Khóa 2024",
@@ -87,15 +47,6 @@
     "field": "học bổng",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "cntt",
-      "ttnt",
-      "truong",
-      "hoc_bong"
-    ],
-    "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_4",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024.md"
   }
 ]

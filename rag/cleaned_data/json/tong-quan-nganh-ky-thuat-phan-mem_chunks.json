@@ -7,14 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "ktpm",
-      "truong"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật phần mềm",
@@ -24,15 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "httt",
-      "ktpm",
-      "hoctap"
-    ],
-    "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_1",
-    "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật phần mềm",
@@ -42,14 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "ktpm",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_2",
-    "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật phần mềm",
@@ -59,15 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "ktpm",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_3",
-    "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_5",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật phần mềm",
@@ -77,19 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "attt",
-      "httt",
-      "ktpm",
-      "tmdt",
-      "ttnt",
-      "truong",
-      "giang_vien_va_can_bo"
-    ],
-    "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_4",
-    "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_6",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật phần mềm",
@@ -99,17 +57,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "ktpm",
-      "ttnt",
-      "truong",
-      "hoctap",
-      "giang_vien_va_can_bo"
-    ],
-    "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_5",
-    "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_7",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật phần mềm",
@@ -119,17 +67,6 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật phần mềm",
-    "keywords": [
-      "cntt",
-      "httt",
-      "ktpm",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
-    "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_6",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-phan-mem.md"
   }
 ]

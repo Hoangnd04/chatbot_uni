@@ -7,14 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "An toàn thông tin",
-    "keywords": [
-      "attt",
-      "truong"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành An toàn thông tin",
@@ -24,15 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "An toàn thông tin",
-    "keywords": [
-      "attt",
-      "ttnt",
-      "ngoai_le"
-    ],
-    "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_1",
-    "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành An toàn thông tin",
@@ -42,16 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "An toàn thông tin",
-    "keywords": [
-      "attt",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
-    "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_2",
-    "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành An toàn thông tin",
@@ -61,15 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "An toàn thông tin",
-    "keywords": [
-      "attt",
-      "mmtvttdl",
-      "ttnt"
-    ],
-    "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_3",
-    "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_5",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành An toàn thông tin",
@@ -79,17 +47,6 @@
     "field": "ngành",
     "year": null,
     "department": "An toàn thông tin",
-    "keywords": [
-      "attt",
-      "ktpm",
-      "mmtvttdl",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
-    "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_4",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md",
-    "admission_info": {}
+    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-an-toan-thong-tin.md"
   }
 ]

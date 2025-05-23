@@ -3,2236 +3,1030 @@
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2023 - Mã ngành: 7340122",
     "content": "Năm 2023, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 25.8, điểm ĐGNL là 860.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ca940e54-8116-424d-8d57-11a04f7dbdf7",
+    "chunk_id": "8c83d494-c716-43dc-8cbf-934c50e4a6e8",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122",
-      "Thương Mại Điện Tử",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": null,
-    "next_chunk": "843d1e35-166a-4053-ab9d-4bf2641f228a",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.8,
-      "diem_dgnl": 860.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "next_chunk": "9231c049-f063-45ec-b3d1-efe7edb3fbad"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2023 - Mã ngành: 7460108",
     "content": "Năm 2023, ngành Khoa Học Dữ Liệu (mã ngành 7460108) có điểm chuẩn là 27.1, điểm ĐGNL là 915.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "843d1e35-166a-4053-ab9d-4bf2641f228a",
+    "chunk_id": "9231c049-f063-45ec-b3d1-efe7edb3fbad",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "khdl",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7460108",
-      "Khoa Học Dữ Liệu",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "ca940e54-8116-424d-8d57-11a04f7dbdf7",
-    "next_chunk": "22c386b4-77c7-4326-b78d-7cd2addf58e9",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.1,
-      "diem_dgnl": 915.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "8c83d494-c716-43dc-8cbf-934c50e4a6e8",
+    "next_chunk": "bd33305c-e83d-4b73-90fd-ea16a82c979c"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2023 - Mã ngành: 7480101",
     "content": "Năm 2023, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 26.9, điểm ĐGNL là 915.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "22c386b4-77c7-4326-b78d-7cd2addf58e9",
+    "chunk_id": "bd33305c-e83d-4b73-90fd-ea16a82c979c",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101",
-      "Khoa Học Máy Tính",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "843d1e35-166a-4053-ab9d-4bf2641f228a",
-    "next_chunk": "d9c9446e-93e6-44e7-94cf-f2f92d298f1f",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.9,
-      "diem_dgnl": 915.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "9231c049-f063-45ec-b3d1-efe7edb3fbad",
+    "next_chunk": "30abc380-ef08-482a-834e-35ece63d8b08"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2023 - Mã ngành: 7480102",
     "content": "Năm 2023, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 25.4, điểm ĐGNL là 845.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d9c9446e-93e6-44e7-94cf-f2f92d298f1f",
+    "chunk_id": "30abc380-ef08-482a-834e-35ece63d8b08",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "22c386b4-77c7-4326-b78d-7cd2addf58e9",
-    "next_chunk": "95138e75-608c-4dd2-a1a1-d1eff6d4606c",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.4,
-      "diem_dgnl": 845.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "bd33305c-e83d-4b73-90fd-ea16a82c979c",
+    "next_chunk": "c050ec4e-00ac-4f2f-a1fd-a8e89fa2eb7f"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2023 - Mã ngành: 7480103",
     "content": "Năm 2023, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 26.9, điểm ĐGNL là 925.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "95138e75-608c-4dd2-a1a1-d1eff6d4606c",
+    "chunk_id": "c050ec4e-00ac-4f2f-a1fd-a8e89fa2eb7f",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103",
-      "Kỹ Thuật Phần Mềm",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "d9c9446e-93e6-44e7-94cf-f2f92d298f1f",
-    "next_chunk": "d0c75cea-671e-44cc-912d-6186066ad02d",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.9,
-      "diem_dgnl": 925.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "30abc380-ef08-482a-834e-35ece63d8b08",
+    "next_chunk": "6aa9b085-083c-41c9-8481-e9efe2d4c403"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2023 - Mã ngành: 7480104",
     "content": "Năm 2023, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.1, điểm ĐGNL là 855.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d0c75cea-671e-44cc-912d-6186066ad02d",
+    "chunk_id": "6aa9b085-083c-41c9-8481-e9efe2d4c403",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104",
-      "Hệ Thống Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "95138e75-608c-4dd2-a1a1-d1eff6d4606c",
-    "next_chunk": "d7db2f6f-7f52-46a3-8181-975c0977f1d4",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.1,
-      "diem_dgnl": 855.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "c050ec4e-00ac-4f2f-a1fd-a8e89fa2eb7f",
+    "next_chunk": "d1ecef46-ad03-441c-9593-829460e44dce"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2023 - Mã ngành: 7480104_TT",
     "content": "Năm 2023, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 25.4, điểm ĐGNL là 825.0, tổ hợp môn xét tuyển: A00;A01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d7db2f6f-7f52-46a3-8181-975c0977f1d4",
+    "chunk_id": "d1ecef46-ad03-441c-9593-829460e44dce",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104_TT",
-      "Hệ Thống Thông Tin (Tiên Tiến)",
-      "A00;A01;D07"
-    ],
-    "prev_chunk": "d0c75cea-671e-44cc-912d-6186066ad02d",
-    "next_chunk": "a9882944-2910-41d3-aa0b-926e3ad7d3c0",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.4,
-      "diem_dgnl": 825.0,
-      "to_hop_mon": "A00;A01;D07"
-    }
+    "prev_chunk": "6aa9b085-083c-41c9-8481-e9efe2d4c403",
+    "next_chunk": "4f276324-69a2-4bbd-ad2d-efab63e69eca"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2023 - Mã ngành: 7480106",
     "content": "Năm 2023, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 25.6, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00;A01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "a9882944-2910-41d3-aa0b-926e3ad7d3c0",
+    "chunk_id": "4f276324-69a2-4bbd-ad2d-efab63e69eca",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106",
-      "Kỹ Thuật Máy Tính",
-      "A00;A01"
-    ],
-    "prev_chunk": "d7db2f6f-7f52-46a3-8181-975c0977f1d4",
-    "next_chunk": "ff4024d6-5449-40fc-b835-203c2e4df364",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.6,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": "A00;A01"
-    }
+    "prev_chunk": "d1ecef46-ad03-441c-9593-829460e44dce",
+    "next_chunk": "228b40de-44c8-46ce-8304-a73134b8f056"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
     "header": "Năm 2023 - Mã ngành: 7480106-IOT",
     "content": "Năm 2023, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot) (mã ngành 7480106-IOT) có điểm chuẩn là 25.6, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00;A01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ff4024d6-5449-40fc-b835-203c2e4df364",
+    "chunk_id": "228b40de-44c8-46ce-8304-a73134b8f056",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106-IOT",
-      "Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
-      "A00;A01"
-    ],
-    "prev_chunk": "a9882944-2910-41d3-aa0b-926e3ad7d3c0",
-    "next_chunk": "73473de4-29f3-4bb7-934e-9b429dceaae7",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.6,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": "A00;A01"
-    }
+    "prev_chunk": "4f276324-69a2-4bbd-ad2d-efab63e69eca",
+    "next_chunk": "60015438-1573-4bb6-819e-2d465969e34c"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch)",
     "header": "Năm 2023 - Mã ngành: 7480106-TKVM",
     "content": "Năm 2023, ngành Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch) (mã ngành 7480106-TKVM) có điểm chuẩn là 25.4, điểm ĐGNL là 810.0, tổ hợp môn xét tuyển: A00;A01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "73473de4-29f3-4bb7-934e-9b429dceaae7",
+    "chunk_id": "60015438-1573-4bb6-819e-2d465969e34c",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106-TKVM",
-      "Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch)",
-      "A00;A01"
-    ],
-    "prev_chunk": "ff4024d6-5449-40fc-b835-203c2e4df364",
-    "next_chunk": "cb14307b-742e-4eb2-877e-29d3dde19b94",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.4,
-      "diem_dgnl": 810.0,
-      "to_hop_mon": "A00;A01"
-    }
+    "prev_chunk": "228b40de-44c8-46ce-8304-a73134b8f056",
+    "next_chunk": "c2869e59-4f67-4473-ac6d-eae284275d90"
   },
   {
     "title": "Ngành Trí Tuệ Nhân Tạo",
     "header": "Năm 2023 - Mã ngành: 7480107",
     "content": "Năm 2023, ngành Trí Tuệ Nhân Tạo (mã ngành 7480107) có điểm chuẩn là 27.8, điểm ĐGNL là 970.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "cb14307b-742e-4eb2-877e-29d3dde19b94",
+    "chunk_id": "c2869e59-4f67-4473-ac6d-eae284275d90",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ttnt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480107",
-      "Trí Tuệ Nhân Tạo",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "73473de4-29f3-4bb7-934e-9b429dceaae7",
-    "next_chunk": "569aaf32-c9ce-4718-8d7a-241f1900f2f7",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.8,
-      "diem_dgnl": 970.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "60015438-1573-4bb6-819e-2d465969e34c",
+    "next_chunk": "11fd105a-cefc-4304-915c-8c1a96008e21"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2023 - Mã ngành: 7480201",
     "content": "Năm 2023, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 26.9, điểm ĐGNL là 920.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "569aaf32-c9ce-4718-8d7a-241f1900f2f7",
+    "chunk_id": "11fd105a-cefc-4304-915c-8c1a96008e21",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201",
-      "Công Nghệ Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "cb14307b-742e-4eb2-877e-29d3dde19b94",
-    "next_chunk": "27954ccd-65a8-4909-b868-3db1b9427405",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.9,
-      "diem_dgnl": 920.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "c2869e59-4f67-4473-ac6d-eae284275d90",
+    "next_chunk": "13c5cf3a-c5f2-4515-9447-97ecff0a59dd"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Việt - Nhật)",
     "header": "Năm 2023 - Mã ngành: 7480201_N",
     "content": "Năm 2023, ngành Công Nghệ Thông Tin (Việt - Nhật) (mã ngành 7480201_N) có điểm chuẩn là 25.9, điểm ĐGNL là 845.0, tổ hợp môn xét tuyển: A00;A01;D01;D06;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "27954ccd-65a8-4909-b868-3db1b9427405",
+    "chunk_id": "13c5cf3a-c5f2-4515-9447-97ecff0a59dd",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201_N",
-      "Công Nghệ Thông Tin (Việt - Nhật)",
-      "A00;A01;D01;D06;D07"
-    ],
-    "prev_chunk": "569aaf32-c9ce-4718-8d7a-241f1900f2f7",
-    "next_chunk": "94920db3-f2ff-4dec-8cc0-666a6decabd3",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.9,
-      "diem_dgnl": 845.0,
-      "to_hop_mon": "A00;A01;D01;D06;D07"
-    }
+    "prev_chunk": "11fd105a-cefc-4304-915c-8c1a96008e21",
+    "next_chunk": "57289859-3739-489b-b54e-c22e7d13fb45"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2023 - Mã ngành: 7480202",
     "content": "Năm 2023, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 26.3, điểm ĐGNL là 890.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "94920db3-f2ff-4dec-8cc0-666a6decabd3",
+    "chunk_id": "57289859-3739-489b-b54e-c22e7d13fb45",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202",
-      "An Toàn Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "27954ccd-65a8-4909-b868-3db1b9427405",
-    "next_chunk": "5d4e4029-d476-46ca-8aef-531f06602c30",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.3,
-      "diem_dgnl": 890.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "13c5cf3a-c5f2-4515-9447-97ecff0a59dd",
+    "next_chunk": "b4183abb-f792-4218-9cdd-27f2ec547ce8"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2022 - Mã ngành: 7340122",
     "content": "Năm 2022, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 27.05, điểm ĐGNL là 852.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "5d4e4029-d476-46ca-8aef-531f06602c30",
+    "chunk_id": "b4183abb-f792-4218-9cdd-27f2ec547ce8",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122",
-      "Thương Mại Điện Tử",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "94920db3-f2ff-4dec-8cc0-666a6decabd3",
-    "next_chunk": "cfab0534-606c-45c6-a05f-70a1d3cf206d",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.05,
-      "diem_dgnl": 852.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "57289859-3739-489b-b54e-c22e7d13fb45",
+    "next_chunk": "a29e6f79-6e2b-4aa0-a9da-83e743d09298"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2022 - Mã ngành: 7480101",
     "content": "Năm 2022, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 27.1, điểm ĐGNL là 888.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "cfab0534-606c-45c6-a05f-70a1d3cf206d",
+    "chunk_id": "a29e6f79-6e2b-4aa0-a9da-83e743d09298",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101",
-      "Khoa Học Máy Tính",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "5d4e4029-d476-46ca-8aef-531f06602c30",
-    "next_chunk": "40a32fde-ba1a-4aa8-8d2d-483ba52424c6",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.1,
-      "diem_dgnl": 888.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "b4183abb-f792-4218-9cdd-27f2ec547ce8",
+    "next_chunk": "f723250a-2884-45ac-bad5-38b0cf1ef1e0"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2022 - Mã ngành: 7480102",
     "content": "Năm 2022, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 26.3, điểm ĐGNL là 810.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "40a32fde-ba1a-4aa8-8d2d-483ba52424c6",
+    "chunk_id": "f723250a-2884-45ac-bad5-38b0cf1ef1e0",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "cfab0534-606c-45c6-a05f-70a1d3cf206d",
-    "next_chunk": "cc8c09bc-80ab-418b-9532-0d0b5c1f4441",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.3,
-      "diem_dgnl": 810.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "a29e6f79-6e2b-4aa0-a9da-83e743d09298",
+    "next_chunk": "574e37e5-9b84-46fd-9844-c622394886d0"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2022 - Mã ngành: 7480103",
     "content": "Năm 2022, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 28.05, điểm ĐGNL là 895.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "cc8c09bc-80ab-418b-9532-0d0b5c1f4441",
+    "chunk_id": "574e37e5-9b84-46fd-9844-c622394886d0",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103",
-      "Kỹ Thuật Phần Mềm",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "40a32fde-ba1a-4aa8-8d2d-483ba52424c6",
-    "next_chunk": "52d47499-670b-4866-829b-d34e22a3acfd",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 28.05,
-      "diem_dgnl": 895.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "f723250a-2884-45ac-bad5-38b0cf1ef1e0",
+    "next_chunk": "ba46ef90-4bcc-47e0-95ec-d001e27aa732"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2022 - Mã ngành: 7480104",
     "content": "Năm 2022, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.7, điểm ĐGNL là 825.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "52d47499-670b-4866-829b-d34e22a3acfd",
+    "chunk_id": "ba46ef90-4bcc-47e0-95ec-d001e27aa732",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104",
-      "Hệ Thống Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "cc8c09bc-80ab-418b-9532-0d0b5c1f4441",
-    "next_chunk": "3196ec08-8924-4498-bd53-de6e3c4b1742",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.7,
-      "diem_dgnl": 825.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "574e37e5-9b84-46fd-9844-c622394886d0",
+    "next_chunk": "a6583043-86f5-4ef1-b786-e41de14d3f22"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2022 - Mã ngành: 7480104_TT",
     "content": "Năm 2022, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 26.2, điểm ĐGNL là 800.0, tổ hợp môn xét tuyển: A00;A01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3196ec08-8924-4498-bd53-de6e3c4b1742",
+    "chunk_id": "a6583043-86f5-4ef1-b786-e41de14d3f22",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104_TT",
-      "Hệ Thống Thông Tin (Tiên Tiến)",
-      "A00;A01;D07"
-    ],
-    "prev_chunk": "52d47499-670b-4866-829b-d34e22a3acfd",
-    "next_chunk": "ed47d0f7-2378-43eb-a715-e4b816b6a6b3",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.2,
-      "diem_dgnl": 800.0,
-      "to_hop_mon": "A00;A01;D07"
-    }
+    "prev_chunk": "ba46ef90-4bcc-47e0-95ec-d001e27aa732",
+    "next_chunk": "11147415-ecc3-46d3-917e-3ac2958e2456"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2022 - Mã ngành: 7480106",
     "content": "Năm 2022, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 26.55, điểm ĐGNL là 843.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ed47d0f7-2378-43eb-a715-e4b816b6a6b3",
+    "chunk_id": "11147415-ecc3-46d3-917e-3ac2958e2456",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106",
-      "Kỹ Thuật Máy Tính",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "3196ec08-8924-4498-bd53-de6e3c4b1742",
-    "next_chunk": "32be6a93-8a87-462a-9118-949e71805681",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.55,
-      "diem_dgnl": 843.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "a6583043-86f5-4ef1-b786-e41de14d3f22",
+    "next_chunk": "fcd3d273-6ab4-4896-a03f-dc496ccef3d2"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot",
     "header": "Năm 2022 - Mã ngành: 7480106_IOT",
     "content": "Năm 2022, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot (mã ngành 7480106_IOT) có điểm chuẩn là 26.5, điểm ĐGNL là 842.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "32be6a93-8a87-462a-9118-949e71805681",
+    "chunk_id": "fcd3d273-6ab4-4896-a03f-dc496ccef3d2",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106_IOT",
-      "Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "ed47d0f7-2378-43eb-a715-e4b816b6a6b3",
-    "next_chunk": "ad405fa3-0bfa-4806-a35f-e4bc3cf6b9e5",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.5,
-      "diem_dgnl": 842.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "11147415-ecc3-46d3-917e-3ac2958e2456",
+    "next_chunk": "da40b085-e834-4854-867d-5c014115199d"
   },
   {
     "title": "Ngành Trí Tuệ Nhân Tạo",
     "header": "Năm 2022 - Mã ngành: 7480107",
     "content": "Năm 2022, ngành Trí Tuệ Nhân Tạo (mã ngành 7480107) có điểm chuẩn là 28.0, điểm ĐGNL là 940.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ad405fa3-0bfa-4806-a35f-e4bc3cf6b9e5",
+    "chunk_id": "da40b085-e834-4854-867d-5c014115199d",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ttnt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480107",
-      "Trí Tuệ Nhân Tạo",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "32be6a93-8a87-462a-9118-949e71805681",
-    "next_chunk": "2fb7013b-042e-4ff5-8b89-55af2065f6bc",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 28.0,
-      "diem_dgnl": 940.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "fcd3d273-6ab4-4896-a03f-dc496ccef3d2",
+    "next_chunk": "51911714-bd48-4f04-b91e-db72111933d0"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2022 - Mã ngành: 7480109",
     "content": "Năm 2022, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 27.05, điểm ĐGNL là 880.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "2fb7013b-042e-4ff5-8b89-55af2065f6bc",
+    "chunk_id": "51911714-bd48-4f04-b91e-db72111933d0",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "khdl",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480109",
-      "Khoa Học Dữ Liệu",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "ad405fa3-0bfa-4806-a35f-e4bc3cf6b9e5",
-    "next_chunk": "36dad868-6625-454f-b40f-92fb560bb462",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.05,
-      "diem_dgnl": 880.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "da40b085-e834-4854-867d-5c014115199d",
+    "next_chunk": "87659fff-7bb3-4469-9aba-34116a50d6c4"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2022 - Mã ngành: 7480201",
     "content": "Năm 2022, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 27.9, điểm ĐGNL là 892.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "36dad868-6625-454f-b40f-92fb560bb462",
+    "chunk_id": "87659fff-7bb3-4469-9aba-34116a50d6c4",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201",
-      "Công Nghệ Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "2fb7013b-042e-4ff5-8b89-55af2065f6bc",
-    "next_chunk": "0cf56293-76eb-4baa-9f0d-b9ecb9ab64b1",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.9,
-      "diem_dgnl": 892.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "51911714-bd48-4f04-b91e-db72111933d0",
+    "next_chunk": "9660275f-4f16-489b-9c07-fcd142c9c51a"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Việt - Nhật)",
     "header": "Năm 2022 - Mã ngành: 7480201_N",
     "content": "Năm 2022, ngành Công Nghệ Thông Tin (Việt - Nhật) (mã ngành 7480201_N) có điểm chuẩn là 26.3, điểm ĐGNL là 805.0, tổ hợp môn xét tuyển: A00;A01;D01;D06;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0cf56293-76eb-4baa-9f0d-b9ecb9ab64b1",
+    "chunk_id": "9660275f-4f16-489b-9c07-fcd142c9c51a",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201_N",
-      "Công Nghệ Thông Tin (Việt - Nhật)",
-      "A00;A01;D01;D06;D07"
-    ],
-    "prev_chunk": "36dad868-6625-454f-b40f-92fb560bb462",
-    "next_chunk": "c2e03d7f-b9e4-4e24-bd65-b2c0207cdb7f",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.3,
-      "diem_dgnl": 805.0,
-      "to_hop_mon": "A00;A01;D01;D06;D07"
-    }
+    "prev_chunk": "87659fff-7bb3-4469-9aba-34116a50d6c4",
+    "next_chunk": "9d5154af-7b1e-48d6-b0a8-ee63f491c2fa"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2022 - Mã ngành: 7480202",
     "content": "Năm 2022, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 26.95, điểm ĐGNL là 858.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c2e03d7f-b9e4-4e24-bd65-b2c0207cdb7f",
+    "chunk_id": "9d5154af-7b1e-48d6-b0a8-ee63f491c2fa",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202",
-      "An Toàn Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "0cf56293-76eb-4baa-9f0d-b9ecb9ab64b1",
-    "next_chunk": "86b5b657-ed6a-416d-8f61-e1a09e4f3c0d",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.95,
-      "diem_dgnl": 858.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "9660275f-4f16-489b-9c07-fcd142c9c51a",
+    "next_chunk": "bdaef457-74ca-493c-9d76-dfd57c1adea9"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2021 - Mã ngành: 7340122",
     "content": "Năm 2021, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 26.7, điểm ĐGNL là 878.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "86b5b657-ed6a-416d-8f61-e1a09e4f3c0d",
+    "chunk_id": "bdaef457-74ca-493c-9d76-dfd57c1adea9",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122",
-      "Thương Mại Điện Tử",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "c2e03d7f-b9e4-4e24-bd65-b2c0207cdb7f",
-    "next_chunk": "afae381d-efa7-4080-9ac2-fc07440c948c",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.7,
-      "diem_dgnl": 878.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "9d5154af-7b1e-48d6-b0a8-ee63f491c2fa",
+    "next_chunk": "8ca633a3-7915-4f41-bafc-59ab8094fd48"
   },
   {
     "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7340122_CLCA",
     "content": "Năm 2021, ngành Thương Mại Điện Tử (Chất Lượng Cao) (mã ngành 7340122_CLCA) có điểm chuẩn là 26.3, điểm ĐGNL là 795.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "afae381d-efa7-4080-9ac2-fc07440c948c",
+    "chunk_id": "8ca633a3-7915-4f41-bafc-59ab8094fd48",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122_CLCA",
-      "Thương Mại Điện Tử (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "86b5b657-ed6a-416d-8f61-e1a09e4f3c0d",
-    "next_chunk": "171550e7-a351-47ed-86bd-c6d791c387b4",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.3,
-      "diem_dgnl": 795.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "bdaef457-74ca-493c-9d76-dfd57c1adea9",
+    "next_chunk": "baa4368c-ebf1-4168-92d0-6844e0370d2d"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2021 - Mã ngành: 7480101",
     "content": "Năm 2021, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 27.3, điểm ĐGNL là 920.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "171550e7-a351-47ed-86bd-c6d791c387b4",
+    "chunk_id": "baa4368c-ebf1-4168-92d0-6844e0370d2d",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101",
-      "Khoa Học Máy Tính",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "afae381d-efa7-4080-9ac2-fc07440c948c",
-    "next_chunk": "3bf471cd-e5d5-4642-b8e9-99e3c7dd15da",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.3,
-      "diem_dgnl": 920.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "8ca633a3-7915-4f41-bafc-59ab8094fd48",
+    "next_chunk": "393d6a7b-43bd-4339-8013-26a82a5ddde1"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480101_CLCA",
     "content": "Năm 2021, ngành Khoa Học Máy Tính (Chất Lượng Cao) (mã ngành 7480101_CLCA) có điểm chuẩn là 26.75, điểm ĐGNL là 877.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3bf471cd-e5d5-4642-b8e9-99e3c7dd15da",
+    "chunk_id": "393d6a7b-43bd-4339-8013-26a82a5ddde1",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101_CLCA",
-      "Khoa Học Máy Tính (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "171550e7-a351-47ed-86bd-c6d791c387b4",
-    "next_chunk": "66069ce9-e97b-49ac-a921-f7efe458526f",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.75,
-      "diem_dgnl": 877.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "baa4368c-ebf1-4168-92d0-6844e0370d2d",
+    "next_chunk": "61eb49ff-fda7-45fe-a1e4-e7e29e79627b"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
     "header": "Năm 2021 - Mã ngành: 7480101_TTNT",
     "content": "Năm 2021, ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo) (mã ngành 7480101_TTNT) có điểm chuẩn là 27.5, điểm ĐGNL là 950.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "66069ce9-e97b-49ac-a921-f7efe458526f",
+    "chunk_id": "61eb49ff-fda7-45fe-a1e4-e7e29e79627b",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ttnt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101_TTNT",
-      "Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "3bf471cd-e5d5-4642-b8e9-99e3c7dd15da",
-    "next_chunk": "5ce63395-6bb1-4c7f-a527-1901ab02ebcc",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.5,
-      "diem_dgnl": 950.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "393d6a7b-43bd-4339-8013-26a82a5ddde1",
+    "next_chunk": "5174d480-0bb4-4997-857e-8fee4a2b6ab8"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2021 - Mã ngành: 7480102",
     "content": "Năm 2021, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 26.35, điểm ĐGNL là 810.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "5ce63395-6bb1-4c7f-a527-1901ab02ebcc",
+    "chunk_id": "5174d480-0bb4-4997-857e-8fee4a2b6ab8",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "66069ce9-e97b-49ac-a921-f7efe458526f",
-    "next_chunk": "489b3eb7-9938-4e9f-a8e3-19c4ef217a43",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.35,
-      "diem_dgnl": 810.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "61eb49ff-fda7-45fe-a1e4-e7e29e79627b",
+    "next_chunk": "9d6b2561-5dbc-4805-9961-9931f75c58d0"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480102_CLCA",
     "content": "Năm 2021, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao) (mã ngành 7480102_CLCA) có điểm chuẩn là 25.6, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "489b3eb7-9938-4e9f-a8e3-19c4ef217a43",
+    "chunk_id": "9d6b2561-5dbc-4805-9961-9931f75c58d0",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102_CLCA",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "5ce63395-6bb1-4c7f-a527-1901ab02ebcc",
-    "next_chunk": "be070e9d-6644-4831-beb3-3765f4af8831",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.6,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "5174d480-0bb4-4997-857e-8fee4a2b6ab8",
+    "next_chunk": "d38fad52-f88d-4b5a-bbda-6b424648f151"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2021 - Mã ngành: 7480103",
     "content": "Năm 2021, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 27.55, điểm ĐGNL là 930.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "be070e9d-6644-4831-beb3-3765f4af8831",
+    "chunk_id": "d38fad52-f88d-4b5a-bbda-6b424648f151",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103",
-      "Kỹ Thuật Phần Mềm",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "489b3eb7-9938-4e9f-a8e3-19c4ef217a43",
-    "next_chunk": "e8468ba4-f4d8-4624-a502-06023fc169b8",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.55,
-      "diem_dgnl": 930.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "9d6b2561-5dbc-4805-9961-9931f75c58d0",
+    "next_chunk": "c02a8291-a5ce-4db8-abd0-56bde2d10b25"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480103_CLCA",
     "content": "Năm 2021, ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao) (mã ngành 7480103_CLCA) có điểm chuẩn là 27.0, điểm ĐGNL là 880.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "e8468ba4-f4d8-4624-a502-06023fc169b8",
+    "chunk_id": "c02a8291-a5ce-4db8-abd0-56bde2d10b25",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103_CLCA",
-      "Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "be070e9d-6644-4831-beb3-3765f4af8831",
-    "next_chunk": "3bce02e2-6846-45fd-8d0a-13c94c9a5567",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.0,
-      "diem_dgnl": 880.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "d38fad52-f88d-4b5a-bbda-6b424648f151",
+    "next_chunk": "a8934570-f77c-4f07-8e6c-a53e77e325b8"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2021 - Mã ngành: 7480104",
     "content": "Năm 2021, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.7, điểm ĐGNL là 855.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3bce02e2-6846-45fd-8d0a-13c94c9a5567",
+    "chunk_id": "a8934570-f77c-4f07-8e6c-a53e77e325b8",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104",
-      "Hệ Thống Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "e8468ba4-f4d8-4624-a502-06023fc169b8",
-    "next_chunk": "20dc0693-9a66-4f33-9314-e821925a1860",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.7,
-      "diem_dgnl": 855.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "c02a8291-a5ce-4db8-abd0-56bde2d10b25",
+    "next_chunk": "ea57e65c-b167-41d7-a6b2-2cb4ca324c63"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480104_CLCA",
     "content": "Năm 2021, ngành Hệ Thống Thông Tin (Chất Lượng Cao) (mã ngành 7480104_CLCA) có điểm chuẩn là 26.15, điểm ĐGNL là 775.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "20dc0693-9a66-4f33-9314-e821925a1860",
+    "chunk_id": "ea57e65c-b167-41d7-a6b2-2cb4ca324c63",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104_CLCA",
-      "Hệ Thống Thông Tin (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "3bce02e2-6846-45fd-8d0a-13c94c9a5567",
-    "next_chunk": "cf507b15-96bc-4788-b728-ed7e0b09904f",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.15,
-      "diem_dgnl": 775.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "a8934570-f77c-4f07-8e6c-a53e77e325b8",
+    "next_chunk": "95bf0d35-5a6c-4536-afd6-0623dfb9b2eb"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2021 - Mã ngành: 7480104_TT",
     "content": "Năm 2021, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 25.1, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "cf507b15-96bc-4788-b728-ed7e0b09904f",
+    "chunk_id": "95bf0d35-5a6c-4536-afd6-0623dfb9b2eb",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104_TT",
-      "Hệ Thống Thông Tin (Tiên Tiến)",
-      "A01;D01;D07"
-    ],
-    "prev_chunk": "20dc0693-9a66-4f33-9314-e821925a1860",
-    "next_chunk": "626350f5-2ca2-4996-8c54-7ddf5d755a71",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.1,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A01;D01;D07"
-    }
+    "prev_chunk": "ea57e65c-b167-41d7-a6b2-2cb4ca324c63",
+    "next_chunk": "93d96ae7-3f0f-468d-a4b7-7387dfc2bab6"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2021 - Mã ngành: 7480106",
     "content": "Năm 2021, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 26.9, điểm ĐGNL là 865.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "626350f5-2ca2-4996-8c54-7ddf5d755a71",
+    "chunk_id": "93d96ae7-3f0f-468d-a4b7-7387dfc2bab6",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106",
-      "Kỹ Thuật Máy Tính",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "cf507b15-96bc-4788-b728-ed7e0b09904f",
-    "next_chunk": "dba99317-5790-47a9-8bc7-d5b8d172f011",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.9,
-      "diem_dgnl": 865.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "95bf0d35-5a6c-4536-afd6-0623dfb9b2eb",
+    "next_chunk": "be13d944-f9af-454b-9ba4-eccbb1dfd2ac"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480106_CLCA",
     "content": "Năm 2021, ngành Kỹ Thuật Máy Tính (Chất Lượng Cao) (mã ngành 7480106_CLCA) có điểm chuẩn là 25.9, điểm ĐGNL là 790.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "dba99317-5790-47a9-8bc7-d5b8d172f011",
+    "chunk_id": "be13d944-f9af-454b-9ba4-eccbb1dfd2ac",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106_CLCA",
-      "Kỹ Thuật Máy Tính (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "626350f5-2ca2-4996-8c54-7ddf5d755a71",
-    "next_chunk": "db1d2466-79b3-486b-8095-bca435b29d04",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.9,
-      "diem_dgnl": 790.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "93d96ae7-3f0f-468d-a4b7-7387dfc2bab6",
+    "next_chunk": "7e1ed747-0ddd-4e29-819b-5ebead558cf0"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
     "header": "Năm 2021 - Mã ngành: 7480106_IOT",
     "content": "Năm 2021, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot) (mã ngành 7480106_IOT) có điểm chuẩn là 26.4, điểm ĐGNL là 845.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "db1d2466-79b3-486b-8095-bca435b29d04",
+    "chunk_id": "7e1ed747-0ddd-4e29-819b-5ebead558cf0",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106_IOT",
-      "Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "dba99317-5790-47a9-8bc7-d5b8d172f011",
-    "next_chunk": "53188f91-00ab-4533-a745-c3981c1b7a91",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.4,
-      "diem_dgnl": 845.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "be13d944-f9af-454b-9ba4-eccbb1dfd2ac",
+    "next_chunk": "599387ea-7d01-45c2-a3e9-c264c448cb65"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2021 - Mã ngành: 7480109",
     "content": "Năm 2021, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 26.65, điểm ĐGNL là 875.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "53188f91-00ab-4533-a745-c3981c1b7a91",
+    "chunk_id": "599387ea-7d01-45c2-a3e9-c264c448cb65",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "khdl",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480109",
-      "Khoa Học Dữ Liệu",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "db1d2466-79b3-486b-8095-bca435b29d04",
-    "next_chunk": "3ca6fc1f-d37f-452a-8758-19ee112d9d9c",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.65,
-      "diem_dgnl": 875.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "7e1ed747-0ddd-4e29-819b-5ebead558cf0",
+    "next_chunk": "d4ba6831-ab19-45b9-a5ca-fdfa8919be93"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2021 - Mã ngành: 7480201",
     "content": "Năm 2021, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 27.3, điểm ĐGNL là 905.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3ca6fc1f-d37f-452a-8758-19ee112d9d9c",
+    "chunk_id": "d4ba6831-ab19-45b9-a5ca-fdfa8919be93",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201",
-      "Công Nghệ Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "53188f91-00ab-4533-a745-c3981c1b7a91",
-    "next_chunk": "6634aa99-46d3-4e1e-8dd5-03d5cc5863a7",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.3,
-      "diem_dgnl": 905.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "599387ea-7d01-45c2-a3e9-c264c448cb65",
+    "next_chunk": "5202ab0e-187b-46ba-8685-e53a21240c52"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
     "header": "Năm 2021 - Mã ngành: 7480201_CLCN",
     "content": "Năm 2021, ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản) (mã ngành 7480201_CLCN) có điểm chuẩn là 25.85, điểm ĐGNL là 795.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6634aa99-46d3-4e1e-8dd5-03d5cc5863a7",
+    "chunk_id": "5202ab0e-187b-46ba-8685-e53a21240c52",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201_CLCN",
-      "Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "3ca6fc1f-d37f-452a-8758-19ee112d9d9c",
-    "next_chunk": "d34172a2-96c0-42d5-87a0-f9e3c258aa3d",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.85,
-      "diem_dgnl": 795.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "d4ba6831-ab19-45b9-a5ca-fdfa8919be93",
+    "next_chunk": "28c8f4db-25f4-4edb-89a1-bcecabc19d99"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2021 - Mã ngành: 7480202",
     "content": "Năm 2021, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 27.0, điểm ĐGNL là 880.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d34172a2-96c0-42d5-87a0-f9e3c258aa3d",
+    "chunk_id": "28c8f4db-25f4-4edb-89a1-bcecabc19d99",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202",
-      "An Toàn Thông Tin",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "6634aa99-46d3-4e1e-8dd5-03d5cc5863a7",
-    "next_chunk": "478b14ee-a628-4c9b-97e5-6c5e5dc12d3d",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.0,
-      "diem_dgnl": 880.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "5202ab0e-187b-46ba-8685-e53a21240c52",
+    "next_chunk": "ce20ce99-e933-4830-bfc7-bde32c73a35f"
   },
   {
     "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480202_CLCA",
     "content": "Năm 2021, ngành An Toàn Thông Tin (Chất Lượng Cao) (mã ngành 7480202_CLCA) có điểm chuẩn là 26.45, điểm ĐGNL là 835.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "478b14ee-a628-4c9b-97e5-6c5e5dc12d3d",
+    "chunk_id": "ce20ce99-e933-4830-bfc7-bde32c73a35f",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202_CLCA",
-      "An Toàn Thông Tin (Chất Lượng Cao)",
-      "A00;A01;D01;D07"
-    ],
-    "prev_chunk": "d34172a2-96c0-42d5-87a0-f9e3c258aa3d",
-    "next_chunk": "d1338e74-b91d-47aa-b0a8-eb39c3ead115",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.45,
-      "diem_dgnl": 835.0,
-      "to_hop_mon": "A00;A01;D01;D07"
-    }
+    "prev_chunk": "28c8f4db-25f4-4edb-89a1-bcecabc19d99",
+    "next_chunk": "a71bddb9-b36c-4c5c-9309-148b6b2dec3a"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2020 - Mã ngành: 7340122",
     "content": "Năm 2020, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 26.5, điểm ĐGNL là 840.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d1338e74-b91d-47aa-b0a8-eb39c3ead115",
+    "chunk_id": "a71bddb9-b36c-4c5c-9309-148b6b2dec3a",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122",
-      "Thương Mại Điện Tử",
-      ""
-    ],
-    "prev_chunk": "478b14ee-a628-4c9b-97e5-6c5e5dc12d3d",
-    "next_chunk": "c4ddeeb4-60d8-476f-9c3a-29e4e3634b9c",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.5,
-      "diem_dgnl": 840.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "ce20ce99-e933-4830-bfc7-bde32c73a35f",
+    "next_chunk": "67235e48-98e4-4464-9ab8-1e23f224c25e"
   },
   {
     "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7340122-CLCA",
     "content": "Năm 2020, ngành Thương Mại Điện Tử (Chất Lượng Cao) (mã ngành 7340122-CLCA) có điểm chuẩn là 24.8, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c4ddeeb4-60d8-476f-9c3a-29e4e3634b9c",
+    "chunk_id": "67235e48-98e4-4464-9ab8-1e23f224c25e",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122-CLCA",
-      "Thương Mại Điện Tử (Chất Lượng Cao)",
-      ""
-    ],
-    "prev_chunk": "d1338e74-b91d-47aa-b0a8-eb39c3ead115",
-    "next_chunk": "ff3c8dc8-f922-429a-b5ea-fac7b29e7538",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 24.8,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "a71bddb9-b36c-4c5c-9309-148b6b2dec3a",
+    "next_chunk": "fa1739c7-ca23-4ef3-a40c-1c505dca0217"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2020 - Mã ngành: 7480101",
     "content": "Năm 2020, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 27.2, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ff3c8dc8-f922-429a-b5ea-fac7b29e7538",
+    "chunk_id": "fa1739c7-ca23-4ef3-a40c-1c505dca0217",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101",
-      "Khoa Học Máy Tính",
-      ""
-    ],
-    "prev_chunk": "c4ddeeb4-60d8-476f-9c3a-29e4e3634b9c",
-    "next_chunk": "1f59fddd-530d-494a-af22-a154a2cc7b51",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.2,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "67235e48-98e4-4464-9ab8-1e23f224c25e",
+    "next_chunk": "e4c05723-d758-4bf8-8123-861a8b4cdc77"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480101-CLCA",
     "content": "Năm 2020, ngành Khoa Học Máy Tính (Chất Lượng Cao) (mã ngành 7480101-CLCA) có điểm chuẩn là 25.7, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "1f59fddd-530d-494a-af22-a154a2cc7b51",
+    "chunk_id": "e4c05723-d758-4bf8-8123-861a8b4cdc77",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101-CLCA",
-      "Khoa Học Máy Tính (Chất Lượng Cao)",
-      ""
-    ],
-    "prev_chunk": "ff3c8dc8-f922-429a-b5ea-fac7b29e7538",
-    "next_chunk": "a0479bc9-8fb6-4064-a2fd-4f7d16d752cc",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.7,
-      "diem_dgnl": 780.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "fa1739c7-ca23-4ef3-a40c-1c505dca0217",
+    "next_chunk": "0a638f55-85eb-4669-8961-d42fc871b439"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
     "header": "Năm 2020 - Mã ngành: 7480101-TTNT",
     "content": "Năm 2020, ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo) (mã ngành 7480101-TTNT) có điểm chuẩn là 27.1, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "a0479bc9-8fb6-4064-a2fd-4f7d16d752cc",
+    "chunk_id": "0a638f55-85eb-4669-8961-d42fc871b439",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ttnt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101-TTNT",
-      "Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
-      ""
-    ],
-    "prev_chunk": "1f59fddd-530d-494a-af22-a154a2cc7b51",
-    "next_chunk": "c80cf46f-62ca-48a7-998f-562f128207b5",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.1,
-      "diem_dgnl": 900.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "e4c05723-d758-4bf8-8123-861a8b4cdc77",
+    "next_chunk": "b08d8317-39aa-40ef-b471-077eb0b051bc"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2020 - Mã ngành: 7480102",
     "content": "Năm 2020, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 26.0, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c80cf46f-62ca-48a7-998f-562f128207b5",
+    "chunk_id": "b08d8317-39aa-40ef-b471-077eb0b051bc",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu",
-      ""
-    ],
-    "prev_chunk": "a0479bc9-8fb6-4064-a2fd-4f7d16d752cc",
-    "next_chunk": "7287e8d8-99d4-40dc-8046-d50cb1ff3e71",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.0,
-      "diem_dgnl": 780.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "0a638f55-85eb-4669-8961-d42fc871b439",
+    "next_chunk": "17475d19-201c-4bb0-8402-a6d2bc978c64"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480102-CLCA",
     "content": "Năm 2020, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao) (mã ngành 7480102-CLCA) có điểm chuẩn là 23.6, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "7287e8d8-99d4-40dc-8046-d50cb1ff3e71",
+    "chunk_id": "17475d19-201c-4bb0-8402-a6d2bc978c64",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102-CLCA",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao)",
-      ""
-    ],
-    "prev_chunk": "c80cf46f-62ca-48a7-998f-562f128207b5",
-    "next_chunk": "c7f1b67a-f6f6-4e0a-a0a9-e784f245d5bf",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.6,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "b08d8317-39aa-40ef-b471-077eb0b051bc",
+    "next_chunk": "3be3bd3f-820a-41ca-a904-1c5e8b2d0e4d"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2020 - Mã ngành: 7480103",
     "content": "Năm 2020, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 27.7, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c7f1b67a-f6f6-4e0a-a0a9-e784f245d5bf",
+    "chunk_id": "3be3bd3f-820a-41ca-a904-1c5e8b2d0e4d",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103",
-      "Kỹ Thuật Phần Mềm",
-      ""
-    ],
-    "prev_chunk": "7287e8d8-99d4-40dc-8046-d50cb1ff3e71",
-    "next_chunk": "9eaf76ef-f3c5-4bc9-a5a3-f9a6e521ca7b",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.7,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "17475d19-201c-4bb0-8402-a6d2bc978c64",
+    "next_chunk": "7e7021b2-6e32-4900-b0c1-bf8e7e18fab7"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480103-CLCA",
     "content": "Năm 2020, ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao) (mã ngành 7480103-CLCA) có điểm chuẩn là 26.3, điểm ĐGNL là 800.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "9eaf76ef-f3c5-4bc9-a5a3-f9a6e521ca7b",
+    "chunk_id": "7e7021b2-6e32-4900-b0c1-bf8e7e18fab7",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103-CLCA",
-      "Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
-      ""
-    ],
-    "prev_chunk": "c7f1b67a-f6f6-4e0a-a0a9-e784f245d5bf",
-    "next_chunk": "08c7d21a-e56d-4207-9b74-6b037b6e9db9",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.3,
-      "diem_dgnl": 800.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "3be3bd3f-820a-41ca-a904-1c5e8b2d0e4d",
+    "next_chunk": "17f3fcc4-d219-4bc2-a933-b56819b5c9e0"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2020 - Mã ngành: 7480104",
     "content": "Năm 2020, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.3, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "08c7d21a-e56d-4207-9b74-6b037b6e9db9",
+    "chunk_id": "17f3fcc4-d219-4bc2-a933-b56819b5c9e0",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104",
-      "Hệ Thống Thông Tin",
-      ""
-    ],
-    "prev_chunk": "9eaf76ef-f3c5-4bc9-a5a3-f9a6e521ca7b",
-    "next_chunk": "6e90c4ed-d367-4fad-a446-eea41a058504",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.3,
-      "diem_dgnl": 780.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "7e7021b2-6e32-4900-b0c1-bf8e7e18fab7",
+    "next_chunk": "58eaea8d-a210-4334-aaf7-add329aed2a8"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin(Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480104-CLCA",
     "content": "Năm 2020, ngành Hệ Thống Thông Tin(Chất Lượng Cao) (mã ngành 7480104-CLCA) có điểm chuẩn là 24.7, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6e90c4ed-d367-4fad-a446-eea41a058504",
+    "chunk_id": "58eaea8d-a210-4334-aaf7-add329aed2a8",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104-CLCA",
-      "Hệ Thống Thông Tin(Chất Lượng Cao)",
-      ""
-    ],
-    "prev_chunk": "08c7d21a-e56d-4207-9b74-6b037b6e9db9",
-    "next_chunk": "c7022061-fa34-42a1-9722-6117b73368c7",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 24.7,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "17f3fcc4-d219-4bc2-a933-b56819b5c9e0",
+    "next_chunk": "c1deba04-1062-4569-9fd1-adeabb8e411d"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin ( Tiên Tiến )",
     "header": "Năm 2020 - Mã ngành: 7480104-TT",
     "content": "Năm 2020, ngành Hệ Thống Thông Tin ( Tiên Tiến ) (mã ngành 7480104-TT) có điểm chuẩn là 22.0, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c7022061-fa34-42a1-9722-6117b73368c7",
+    "chunk_id": "c1deba04-1062-4569-9fd1-adeabb8e411d",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104-TT",
-      "Hệ Thống Thông Tin ( Tiên Tiến )",
-      ""
-    ],
-    "prev_chunk": "6e90c4ed-d367-4fad-a446-eea41a058504",
-    "next_chunk": "2d7fd0b8-160f-4618-a964-1db8351ce459",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 22.0,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "58eaea8d-a210-4334-aaf7-add329aed2a8",
+    "next_chunk": "daf1f169-fac0-4bea-b84c-85b112ab0bcc"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2020 - Mã ngành: 7480106",
     "content": "Năm 2020, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 26.7, điểm ĐGNL là 820.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "2d7fd0b8-160f-4618-a964-1db8351ce459",
+    "chunk_id": "daf1f169-fac0-4bea-b84c-85b112ab0bcc",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106",
-      "Kỹ Thuật Máy Tính",
-      ""
-    ],
-    "prev_chunk": "c7022061-fa34-42a1-9722-6117b73368c7",
-    "next_chunk": "383592dc-782f-4f86-8aec-37caaed60e5e",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.7,
-      "diem_dgnl": 820.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "c1deba04-1062-4569-9fd1-adeabb8e411d",
+    "next_chunk": "47579aa7-5d0b-455b-9a98-6540ec01514e"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao )",
     "header": "Năm 2020 - Mã ngành: 7480106-CLCA",
     "content": "Năm 2020, ngành Kỹ Thuật Máy Tính (Chất Lượng Cao ) (mã ngành 7480106-CLCA) có điểm chuẩn là 24.2, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "383592dc-782f-4f86-8aec-37caaed60e5e",
+    "chunk_id": "47579aa7-5d0b-455b-9a98-6540ec01514e",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106-CLCA",
-      "Kỹ Thuật Máy Tính (Chất Lượng Cao )",
-      ""
-    ],
-    "prev_chunk": "2d7fd0b8-160f-4618-a964-1db8351ce459",
-    "next_chunk": "1e12fca7-38c9-49fc-b21a-4d7bc96572b9",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 24.2,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "daf1f169-fac0-4bea-b84c-85b112ab0bcc",
+    "next_chunk": "15ca54aa-bbc1-49ca-8f76-b3253e0c4d19"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
     "header": "Năm 2020 - Mã ngành: 7480106-IOT",
     "content": "Năm 2020, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot) (mã ngành 7480106-IOT) có điểm chuẩn là 26.0, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "1e12fca7-38c9-49fc-b21a-4d7bc96572b9",
+    "chunk_id": "15ca54aa-bbc1-49ca-8f76-b3253e0c4d19",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106-IOT",
-      "Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
-      ""
-    ],
-    "prev_chunk": "383592dc-782f-4f86-8aec-37caaed60e5e",
-    "next_chunk": "6d36a93c-c50a-4e68-8394-dc565c921a0a",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.0,
-      "diem_dgnl": 780.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "47579aa7-5d0b-455b-9a98-6540ec01514e",
+    "next_chunk": "28c917c1-e72a-4e35-941a-29a4a8e95479"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2020 - Mã ngành: 7480109",
     "content": "Năm 2020, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 25.9, điểm ĐGNL là 830.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6d36a93c-c50a-4e68-8394-dc565c921a0a",
+    "chunk_id": "28c917c1-e72a-4e35-941a-29a4a8e95479",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "khdl",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480109",
-      "Khoa Học Dữ Liệu",
-      ""
-    ],
-    "prev_chunk": "1e12fca7-38c9-49fc-b21a-4d7bc96572b9",
-    "next_chunk": "33bd25f7-5163-4f33-9f18-f20dc8effc86",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.9,
-      "diem_dgnl": 830.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "15ca54aa-bbc1-49ca-8f76-b3253e0c4d19",
+    "next_chunk": "1de85028-595c-449a-b2da-d3f5e421e4b5"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2020 - Mã ngành: 7480201",
     "content": "Năm 2020, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 27.0, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "33bd25f7-5163-4f33-9f18-f20dc8effc86",
+    "chunk_id": "1de85028-595c-449a-b2da-d3f5e421e4b5",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201",
-      "Công Nghệ Thông Tin",
-      ""
-    ],
-    "prev_chunk": "6d36a93c-c50a-4e68-8394-dc565c921a0a",
-    "next_chunk": "9c4f565c-8b42-4183-8fd8-61cf7a8cd777",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 27.0,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "28c917c1-e72a-4e35-941a-29a4a8e95479",
+    "next_chunk": "8be58a62-f5ed-45e5-a1d7-66d32820958c"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản )",
     "header": "Năm 2020 - Mã ngành: 7480201-CLCN",
     "content": "Năm 2020, ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản ) (mã ngành 7480201-CLCN) có điểm chuẩn là 23.7, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "9c4f565c-8b42-4183-8fd8-61cf7a8cd777",
+    "chunk_id": "8be58a62-f5ed-45e5-a1d7-66d32820958c",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201-CLCN",
-      "Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản )",
-      ""
-    ],
-    "prev_chunk": "33bd25f7-5163-4f33-9f18-f20dc8effc86",
-    "next_chunk": "16dc7d08-63c8-4854-9b59-f295300a291e",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.7,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "1de85028-595c-449a-b2da-d3f5e421e4b5",
+    "next_chunk": "9b3cddf6-1c97-4db4-8c73-4303847feee4"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2020 - Mã ngành: 7480202",
     "content": "Năm 2020, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 26.7, điểm ĐGNL là 850.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "16dc7d08-63c8-4854-9b59-f295300a291e",
+    "chunk_id": "9b3cddf6-1c97-4db4-8c73-4303847feee4",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202",
-      "An Toàn Thông Tin",
-      ""
-    ],
-    "prev_chunk": "9c4f565c-8b42-4183-8fd8-61cf7a8cd777",
-    "next_chunk": "f5d92e6a-bc18-41c3-b188-e58104fc7f3a",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 26.7,
-      "diem_dgnl": 850.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "8be58a62-f5ed-45e5-a1d7-66d32820958c",
+    "next_chunk": "95ca13b7-d9aa-4652-a9c7-8f1986dbda0d"
   },
   {
     "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480202_CLCA",
     "content": "Năm 2020, ngành An Toàn Thông Tin (Chất Lượng Cao) (mã ngành 7480202_CLCA) có điểm chuẩn là 25.3, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "f5d92e6a-bc18-41c3-b188-e58104fc7f3a",
+    "chunk_id": "95ca13b7-d9aa-4652-a9c7-8f1986dbda0d",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202_CLCA",
-      "An Toàn Thông Tin (Chất Lượng Cao)",
-      ""
-    ],
-    "prev_chunk": "16dc7d08-63c8-4854-9b59-f295300a291e",
-    "next_chunk": "fb653edd-2be6-4869-aa7b-9c83ef6264de",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.3,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": ""
-    }
+    "prev_chunk": "9b3cddf6-1c97-4db4-8c73-4303847feee4",
+    "next_chunk": "58473b1e-d68e-4ba0-9acb-07f06744543a"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2019 - Mã ngành: 7340122",
     "content": "Năm 2019, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 23.9, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "fb653edd-2be6-4869-aa7b-9c83ef6264de",
+    "chunk_id": "58473b1e-d68e-4ba0-9acb-07f06744543a",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122",
-      "Thương Mại Điện Tử",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "f5d92e6a-bc18-41c3-b188-e58104fc7f3a",
-    "next_chunk": "7a1d94c8-103b-4fc9-9ba6-14376279d5f2",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.9,
-      "diem_dgnl": 900.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "95ca13b7-d9aa-4652-a9c7-8f1986dbda0d",
+    "next_chunk": "ab89b9c4-27c8-4b84-b379-fe44f43d2cc4"
   },
   {
     "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7340122_CLCA",
     "content": "Năm 2019, ngành Thương Mại Điện Tử (Chất Lượng Cao) (mã ngành 7340122_CLCA) có điểm chuẩn là 21.05, điểm ĐGNL là 790.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "7a1d94c8-103b-4fc9-9ba6-14376279d5f2",
+    "chunk_id": "ab89b9c4-27c8-4b84-b379-fe44f43d2cc4",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "tmdt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7340122_CLCA",
-      "Thương Mại Điện Tử (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "fb653edd-2be6-4869-aa7b-9c83ef6264de",
-    "next_chunk": "cb8d0415-b2a5-4fb5-9b3a-88a970a55442",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 21.05,
-      "diem_dgnl": 790.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "58473b1e-d68e-4ba0-9acb-07f06744543a",
+    "next_chunk": "42051ba6-2fea-4bd1-bb27-0a647f7a4606"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2019 - Mã ngành: 7480101",
     "content": "Năm 2019, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 25.55, điểm ĐGNL là 980.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "cb8d0415-b2a5-4fb5-9b3a-88a970a55442",
+    "chunk_id": "42051ba6-2fea-4bd1-bb27-0a647f7a4606",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101",
-      "Khoa Học Máy Tính",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "7a1d94c8-103b-4fc9-9ba6-14376279d5f2",
-    "next_chunk": "8b9c28c7-92ab-4637-a2ba-7272f166f51f",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.55,
-      "diem_dgnl": 980.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "ab89b9c4-27c8-4b84-b379-fe44f43d2cc4",
+    "next_chunk": "5e045556-ed43-4375-95b5-77920e67b840"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480101_CLCA",
     "content": "Năm 2019, ngành Khoa Học Máy Tính (Chất Lượng Cao) (mã ngành 7480101_CLCA) có điểm chuẩn là 22.65, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "8b9c28c7-92ab-4637-a2ba-7272f166f51f",
+    "chunk_id": "5e045556-ed43-4375-95b5-77920e67b840",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "khmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480101_CLCA",
-      "Khoa Học Máy Tính (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "cb8d0415-b2a5-4fb5-9b3a-88a970a55442",
-    "next_chunk": "c6ee7151-574e-467d-af18-f14aad190180",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 22.65,
-      "diem_dgnl": 900.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "42051ba6-2fea-4bd1-bb27-0a647f7a4606",
+    "next_chunk": "b0fdf5e3-37ef-4447-a81d-4c460cabc48e"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2019 - Mã ngành: 7480102",
     "content": "Năm 2019, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 23.2, điểm ĐGNL là 840.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c6ee7151-574e-467d-af18-f14aad190180",
+    "chunk_id": "b0fdf5e3-37ef-4447-a81d-4c460cabc48e",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "8b9c28c7-92ab-4637-a2ba-7272f166f51f",
-    "next_chunk": "e2d58bec-a9e0-460a-a010-557194b3dffc",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.2,
-      "diem_dgnl": 840.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "5e045556-ed43-4375-95b5-77920e67b840",
+    "next_chunk": "2f9a2f1a-4049-472f-865e-4200f8c7095a"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480102_CLCA",
     "content": "Năm 2019, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao) (mã ngành 7480102_CLCA) có điểm chuẩn là 20.0, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "e2d58bec-a9e0-460a-a010-557194b3dffc",
+    "chunk_id": "2f9a2f1a-4049-472f-865e-4200f8c7095a",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ngành",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480102_CLCA",
-      "Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "c6ee7151-574e-467d-af18-f14aad190180",
-    "next_chunk": "3ee89e7d-79f6-4826-aa2e-a3a84db9dba6",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 20.0,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "b0fdf5e3-37ef-4447-a81d-4c460cabc48e",
+    "next_chunk": "74150b7b-c03c-42f1-bc96-73c1ac580265"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2019 - Mã ngành: 7480103",
     "content": "Năm 2019, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 25.3, điểm ĐGNL là 960.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3ee89e7d-79f6-4826-aa2e-a3a84db9dba6",
+    "chunk_id": "74150b7b-c03c-42f1-bc96-73c1ac580265",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103",
-      "Kỹ Thuật Phần Mềm",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "e2d58bec-a9e0-460a-a010-557194b3dffc",
-    "next_chunk": "4e28b427-a894-490c-a63f-9dc7f3dc6c88",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 25.3,
-      "diem_dgnl": 960.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "2f9a2f1a-4049-472f-865e-4200f8c7095a",
+    "next_chunk": "83088ce9-8b17-4547-b828-190cf9f9743f"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480103_CLCA",
     "content": "Năm 2019, ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao) (mã ngành 7480103_CLCA) có điểm chuẩn là 23.2, điểm ĐGNL là 890.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "4e28b427-a894-490c-a63f-9dc7f3dc6c88",
+    "chunk_id": "83088ce9-8b17-4547-b828-190cf9f9743f",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktpm",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480103_CLCA",
-      "Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "3ee89e7d-79f6-4826-aa2e-a3a84db9dba6",
-    "next_chunk": "97997069-b6f9-4707-bd62-31fdd43ff291",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.2,
-      "diem_dgnl": 890.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "74150b7b-c03c-42f1-bc96-73c1ac580265",
+    "next_chunk": "234b0241-663f-431e-a78f-60107d404b4c"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2019 - Mã ngành: 7480104",
     "content": "Năm 2019, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 23.5, điểm ĐGNL là 860.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "97997069-b6f9-4707-bd62-31fdd43ff291",
+    "chunk_id": "234b0241-663f-431e-a78f-60107d404b4c",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104",
-      "Hệ Thống Thông Tin",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "4e28b427-a894-490c-a63f-9dc7f3dc6c88",
-    "next_chunk": "ac54ee28-9ef3-4338-b0fb-76d3fcf1a22d",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.5,
-      "diem_dgnl": 860.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "83088ce9-8b17-4547-b828-190cf9f9743f",
+    "next_chunk": "1b0de722-40fe-4374-a19b-3c198ac031b2"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480104_CLCA",
     "content": "Năm 2019, ngành Hệ Thống Thông Tin (Chất Lượng Cao) (mã ngành 7480104_CLCA) có điểm chuẩn là 21.4, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ac54ee28-9ef3-4338-b0fb-76d3fcf1a22d",
+    "chunk_id": "1b0de722-40fe-4374-a19b-3c198ac031b2",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104_CLCA",
-      "Hệ Thống Thông Tin (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "97997069-b6f9-4707-bd62-31fdd43ff291",
-    "next_chunk": "c5faf8fe-3431-4780-bffd-7b843fdf5e22",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 21.4,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "234b0241-663f-431e-a78f-60107d404b4c",
+    "next_chunk": "15191709-3c66-4ca7-8c71-d01fade07203"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2019 - Mã ngành: 7480104_TT",
     "content": "Năm 2019, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 17.8, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c5faf8fe-3431-4780-bffd-7b843fdf5e22",
+    "chunk_id": "15191709-3c66-4ca7-8c71-d01fade07203",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "httt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480104_TT",
-      "Hệ Thống Thông Tin (Tiên Tiến)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "ac54ee28-9ef3-4338-b0fb-76d3fcf1a22d",
-    "next_chunk": "72433cf6-5eec-43b3-9815-ad29cab59d9f",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 17.8,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "1b0de722-40fe-4374-a19b-3c198ac031b2",
+    "next_chunk": "5a479ac7-7e47-4f36-a784-c2d8f6bd7cef"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2019 - Mã ngành: 7480106",
     "content": "Năm 2019, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 23.8, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "72433cf6-5eec-43b3-9815-ad29cab59d9f",
+    "chunk_id": "5a479ac7-7e47-4f36-a784-c2d8f6bd7cef",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106",
-      "Kỹ Thuật Máy Tính",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "c5faf8fe-3431-4780-bffd-7b843fdf5e22",
-    "next_chunk": "507fcae1-b39a-4803-97c8-c2541b273056",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.8,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "15191709-3c66-4ca7-8c71-d01fade07203",
+    "next_chunk": "0234d323-c2b4-4b8d-8d73-d27064efdaed"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480106_CLCA",
     "content": "Năm 2019, ngành Kỹ Thuật Máy Tính (Chất Lượng Cao) (mã ngành 7480106_CLCA) có điểm chuẩn là 21.0, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "507fcae1-b39a-4803-97c8-c2541b273056",
+    "chunk_id": "0234d323-c2b4-4b8d-8d73-d27064efdaed",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktmt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480106_CLCA",
-      "Kỹ Thuật Máy Tính (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "72433cf6-5eec-43b3-9815-ad29cab59d9f",
-    "next_chunk": "bdd6982b-b096-4cf8-89ae-71d9ca9d12cb",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 21.0,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "5a479ac7-7e47-4f36-a784-c2d8f6bd7cef",
+    "next_chunk": "f9f2112c-35a8-4f8a-8c5a-96db852f049a"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2019 - Mã ngành: 7480109",
     "content": "Năm 2019, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 23.5, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "bdd6982b-b096-4cf8-89ae-71d9ca9d12cb",
+    "chunk_id": "f9f2112c-35a8-4f8a-8c5a-96db852f049a",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "khdl",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480109",
-      "Khoa Học Dữ Liệu",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "507fcae1-b39a-4803-97c8-c2541b273056",
-    "next_chunk": "125e2e63-f31d-4afc-b463-8dcd03ec4931",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 23.5,
-      "diem_dgnl": 870.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "0234d323-c2b4-4b8d-8d73-d27064efdaed",
+    "next_chunk": "01ac1ffc-3726-4b03-b4dc-e3b32a41a54d"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2019 - Mã ngành: 7480201",
     "content": "Năm 2019, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 24.65, điểm ĐGNL là 950.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "125e2e63-f31d-4afc-b463-8dcd03ec4931",
+    "chunk_id": "01ac1ffc-3726-4b03-b4dc-e3b32a41a54d",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201",
-      "Công Nghệ Thông Tin",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "bdd6982b-b096-4cf8-89ae-71d9ca9d12cb",
-    "next_chunk": "44440b2d-5aa8-4ed3-b14d-f10a2a3272ba",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 24.65,
-      "diem_dgnl": 950.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "f9f2112c-35a8-4f8a-8c5a-96db852f049a",
+    "next_chunk": "4b1cebd7-97c1-41cd-80e4-179e2879626a"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre)",
     "header": "Năm 2019 - Mã ngành: 7480201_BT",
     "content": "Năm 2019, ngành Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre) (mã ngành 7480201_BT) có điểm chuẩn là 22.9, điểm ĐGNL là 850.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "44440b2d-5aa8-4ed3-b14d-f10a2a3272ba",
+    "chunk_id": "4b1cebd7-97c1-41cd-80e4-179e2879626a",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201_BT",
-      "Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "125e2e63-f31d-4afc-b463-8dcd03ec4931",
-    "next_chunk": "f92398b4-d42a-4880-adb0-9f92fdd5ae23",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 22.9,
-      "diem_dgnl": 850.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "01ac1ffc-3726-4b03-b4dc-e3b32a41a54d",
+    "next_chunk": "3a504ae6-b8d2-4346-90a1-26ee77bf0a4b"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
     "header": "Năm 2019 - Mã ngành: 7480201_CLCN",
     "content": "Năm 2019, ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản) (mã ngành 7480201_CLCN) có điểm chuẩn là 21.3, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "f92398b4-d42a-4880-adb0-9f92fdd5ae23",
+    "chunk_id": "3a504ae6-b8d2-4346-90a1-26ee77bf0a4b",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "cntt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480201_CLCN",
-      "Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "44440b2d-5aa8-4ed3-b14d-f10a2a3272ba",
-    "next_chunk": "38822796-3f35-43b5-ab35-1f82e3c566f5",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 21.3,
-      "diem_dgnl": 750.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "4b1cebd7-97c1-41cd-80e4-179e2879626a",
+    "next_chunk": "4433d5a3-e54c-40bd-a326-c54c5b20f3e6"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2019 - Mã ngành: 7480202",
     "content": "Năm 2019, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 24.45, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "38822796-3f35-43b5-ab35-1f82e3c566f5",
+    "chunk_id": "4433d5a3-e54c-40bd-a326-c54c5b20f3e6",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202",
-      "An Toàn Thông Tin",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "f92398b4-d42a-4880-adb0-9f92fdd5ae23",
-    "next_chunk": "bf03821f-3634-428d-bee2-ca76847993e0",
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 24.45,
-      "diem_dgnl": 900.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "3a504ae6-b8d2-4346-90a1-26ee77bf0a4b",
+    "next_chunk": "821250db-1873-41a6-af64-aadec61d290a"
   },
   {
     "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480202_CLCA",
     "content": "Năm 2019, ngành An Toàn Thông Tin (Chất Lượng Cao) (mã ngành 7480202_CLCA) có điểm chuẩn là 22.0, điểm ĐGNL là 800.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "bf03821f-3634-428d-bee2-ca76847993e0",
+    "chunk_id": "821250db-1873-41a6-af64-aadec61d290a",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "attt",
-    "keywords": [
-      "tuyển sinh",
-      "diem",
-      "tuyensinh",
-      "7480202_CLCA",
-      "An Toàn Thông Tin (Chất Lượng Cao)",
-      "A00, A01, D01"
-    ],
-    "prev_chunk": "38822796-3f35-43b5-ab35-1f82e3c566f5",
-    "next_chunk": null,
     "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
-    "admission_info": {
-      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
-      "diem_chuan": 22.0,
-      "diem_dgnl": 800.0,
-      "to_hop_mon": "A00, A01, D01"
-    }
+    "prev_chunk": "4433d5a3-e54c-40bd-a326-c54c5b20f3e6"
   }
 ]
