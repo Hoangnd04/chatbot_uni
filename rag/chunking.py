@@ -150,16 +150,8 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
         title_line = lines[0].replace("#", "").strip()
 
     source = None
-    if lines and lines[-1].startswith("Source:"):
-        source = lines[-1].replace("Source:", "").strip()
-    elif lines and re.match(r"https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+", lines[-1]):
-        source = f"Source: {lines[-1]}"
-    else:
-        source = f"Source: {source_file}"
-
-    if source and content.endswith(lines[-1]):
-        content = content[:-len(lines[-1])].rstrip("\n")
-        lines = content.splitlines()
+    rel_path = os.path.relpath(source_file)
+    source = rel_path
 
     admission_info = {}
     if field == "tuyển sinh":

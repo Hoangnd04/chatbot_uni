@@ -7,7 +7,7 @@
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   },
   {
     "title": "[2025] Dự kiến phương thức tuyển sinh năm 2025",
@@ -17,7 +17,7 @@
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   },
   {
     "title": "[2025] Dự kiến phương thức tuyển sinh năm 2025",
@@ -27,7 +27,7 @@
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   },
   {
     "title": "[2025] Dự kiến phương thức tuyển sinh năm 2025",
@@ -37,7 +37,7 @@
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   },
   {
     "title": "[2025] Dự kiến phương thức tuyển sinh năm 2025",
@@ -47,7 +47,7 @@
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   },
   {
     "title": "[2025] Dự kiến phương thức tuyển sinh năm 2025",
@@ -57,16 +57,16 @@
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   },
   {
     "title": "[2025] Dự kiến phương thức tuyển sinh năm 2025",
     "header": "4.1 Chương trình liên kết với Đại học Birmingham City – Anh Quốc, do ĐH Birmingham  City cấp  bằng.",
-    "content": "     -  Ngành Khoa học máy tính. -  Ngành Mạng máy tính và an toàn thông tin. 4.2. Chương trình liên kết với Đại học Newcastle, Liên bang Úc (dự kiến): Ngành Kỹ thuật máy tính\nB. Tổ hợp tuyển sinh theo ngành (dự kiến)\n|  |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| STT | Mã ngành | Ngành học | Chỉ tiêu | Tổ hợp môn xét tuyển (dự kiến) |\n| 1 | 7480101 | Khoa học máy tính | 280 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 2 | 7480107 | Trí tuệ nhân tạo | 40 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 3 | 7480102 | Mạng máy tính và truyền thông dữ liệu | 200 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-S-TH |\n| 4 | 7480103 | Kỹ thuật phần mềm | 240 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 5 | 7480104 | Hệ thống thông tin | 180 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-S-A |\n| 6 | 7480104\\_TT | Hệ thống thông tin (tiên tiến) | 80 | T-L-A, T-V-A, T-A-TH, T-H-A, T-S-A |\n| 7 | 7340122 | Thương mại điện tử | 140 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 8 | 7480201 | Công nghệ thông tin | 120 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 9 | 7480201\\_VN | Công nghệ thông tin Việt Nhật | 130 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-V-N |\n| 10 | 7460108 | Khoa học dữ liệu | 80 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-L-S |\n| 11 | 7480202 | An toàn thông tin | 180 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 12 | 7480106 | Kỹ thuật máy tính | 220 | T-L-H, T-L-A, T-L-TH, T-A-TH |\n| 13 | 752020a1 | Thiết kế Vi mạch | 100 | T-L-H, T-L-A, T-L-TH, T-A-TH |\n| 14 | 7320104 | Truyền thông Đa phương tiện | 60 | T-L-A, T-V-A, T-A-TH,  T-SU-A, T-Đ-A, T-V-TH |\n       Ghi chú:\n|  |  |\n| --- | --- |\n| T-L-H:   Toán – Vật lý – Hóa học | T-L-TH:   Toán – Vật lý – Tin học |\n| T-L-A:   Toán – Vật lý – Tiếng Anh | T-A-TH:   Toán – Tiếng Anh – Tin học |\n| T-H-A:   Toán – Hóa học – Tiếng Anh | T-S-TH:   Toán – Sinh học- Tin học |\n| T-S-A:   Toán – Sinh học – Tiếng Anh | T-Su-A:   Toán – Lịch sử - Tiếng Anh |\n| T-V-A:   Toán – Văn – Tiếng Anh | T-Đ-A:   Toán- Địa lý- Tiếng Anh |",
+    "content": "     -  Ngành Khoa học máy tính. -  Ngành Mạng máy tính và an toàn thông tin. 4.2. Chương trình liên kết với Đại học Newcastle, Liên bang Úc (dự kiến): Ngành Kỹ thuật máy tính\nB. Tổ hợp tuyển sinh theo ngành (dự kiến)\n|  |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| STT | Mã ngành | Ngành học | Chỉ tiêu | Tổ hợp môn xét tuyển (dự kiến) |\n| 1 | 7480101 | Khoa học máy tính | 280 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 2 | 7480107 | Trí tuệ nhân tạo | 40 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 3 | 7480102 | Mạng máy tính và truyền thông dữ liệu | 200 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-S-TH |\n| 4 | 7480103 | Kỹ thuật phần mềm | 240 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 5 | 7480104 | Hệ thống thông tin | 180 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-S-A |\n| 6 | 7480104\\_TT | Hệ thống thông tin (tiên tiến) | 80 | T-L-A, T-V-A, T-A-TH, T-H-A, T-S-A |\n| 7 | 7340122 | Thương mại điện tử | 140 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 8 | 7480201 | Công nghệ thông tin | 120 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 9 | 7480201\\_VN | Công nghệ thông tin Việt Nhật | 130 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-V-N |\n| 10 | 7460108 | Khoa học dữ liệu | 80 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A, T-L-S |\n| 11 | 7480202 | An toàn thông tin | 180 | T-L-H, T-L-A, T-V-A, T-A-TH, T-L-TH, T-H-A |\n| 12 | 7480106 | Kỹ thuật máy tính | 220 | T-L-H, T-L-A, T-L-TH, T-A-TH |\n| 13 | 752020a1 | Thiết kế Vi mạch | 100 | T-L-H, T-L-A, T-L-TH, T-A-TH |\n| 14 | 7320104 | Truyền thông Đa phương tiện | 60 | T-L-A, T-V-A, T-A-TH,  T-SU-A, T-Đ-A, T-V-TH |\n       Ghi chú:\n|  |  |\n| --- | --- |\n| T-L-H:   Toán – Vật lý – Hóa học | T-L-TH:   Toán – Vật lý – Tin học |\n| T-L-A:   Toán – Vật lý – Tiếng Anh | T-A-TH:   Toán – Tiếng Anh – Tin học |\n| T-H-A:   Toán – Hóa học – Tiếng Anh | T-S-TH:   Toán – Sinh học- Tin học |\n| T-S-A:   Toán – Sinh học – Tiếng Anh | T-Su-A:   Toán – Lịch sử - Tiếng Anh |\n| T-V-A:   Toán – Văn – Tiếng Anh | T-Đ-A:   Toán- Địa lý- Tiếng Anh |\n| T-V-N:   Toán – Văn - Tiếng Nhật | T-L-S:   Toán- Vật lý - Sinh học |",
     "chunk_id": "phuong-thuc-tuyen-sinh_chunk_7",
     "field": "tuyển sinh",
     "year": null,
     "department": null,
-    "source": "Source: cleaned_data/markdown\\phuong-thuc-tuyen-sinh.md"
+    "source": "cleaned_data\\markdown\\phuong-thuc-tuyen-sinh.md"
   }
 ]

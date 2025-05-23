@@ -7,7 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
@@ -17,7 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
@@ -27,7 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
@@ -37,7 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
@@ -47,7 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
@@ -57,7 +57,7 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
@@ -67,16 +67,16 @@
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   },
   {
     "title": "Tổng quan ngành Kỹ thuật máy tính",
     "header": "Học ngành Kỹ thuật máy tính, các bạn sẽ làm gì ?",
-    "content": "Có rất nhiều lựa chọn cho bạn bao gồm :\n- Lập trình viên, đặc biệt là lập trình các phần mềm nhúng trên các thiết bị di động (Smartphone, Tablet, iphone, ipad,… ), các vi xử lý-vi điều khiển trong các hệ thống công nghiệp, xe ô tô, điện gia dụng, ngôi nhà thông minh,… (Chuyên ngành hệ thống nhúng và IoT)\n- Kỹ sư thiết kế mạch điện - điện tử, mạch điều khiển trong công nghiệp, vi mạch, chip,…(Chuyên ngành thiết kế vi mạch)\n- Làm việc trong các trường đại học, viện nghiên cứu, học tiếp lên cao học, tiến sĩ các ngành nhóm Công nghệ thông tin\n Hiện nay, khoa đã kí kết hợp tác đào tạo, việc làm với các công ty về lĩnh vực mà khoa đang đào tạo như Bosch, Renesas, DEK Technologies, Gầnnhà.com, Faraday, SNST and Finger vina, … hàng năm giới thiệu việc làm cho các bạn sinh viên.",
+    "content": "Có rất nhiều lựa chọn cho bạn bao gồm :\n- Lập trình viên, đặc biệt là lập trình các phần mềm nhúng trên các thiết bị di động (Smartphone, Tablet, iphone, ipad,… ), các vi xử lý-vi điều khiển trong các hệ thống công nghiệp, xe ô tô, điện gia dụng, ngôi nhà thông minh,… (Chuyên ngành hệ thống nhúng và IoT)\n- Kỹ sư thiết kế mạch điện - điện tử, mạch điều khiển trong công nghiệp, vi mạch, chip,…(Chuyên ngành thiết kế vi mạch)\n- Làm việc trong các trường đại học, viện nghiên cứu, học tiếp lên cao học, tiến sĩ các ngành nhóm Công nghệ thông tin\n Hiện nay, khoa đã kí kết hợp tác đào tạo, việc làm với các công ty về lĩnh vực mà khoa đang đào tạo như Bosch, Renesas, DEK Technologies, Gầnnhà.com, Faraday, SNST and Finger vina, … hàng năm giới thiệu việc làm cho các bạn sinh viên. Website Khoa: [http://ktmt.uit.edu.vn](http://ktmt.uit.edu.vn/)",
     "chunk_id": "tong-quan-nganh-ky-thuat-may-tinh_chunk_8",
     "field": "ngành",
     "year": null,
     "department": "Kỹ thuật máy tính",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-ky-thuat-may-tinh.md"
   }
 ]

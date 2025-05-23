@@ -7,7 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   },
   {
     "title": "Tổng quan ngành Thiết kế Vi mạch",
@@ -17,7 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   },
   {
     "title": "Tổng quan ngành Thiết kế Vi mạch",
@@ -27,7 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   },
   {
     "title": "Tổng quan ngành Thiết kế Vi mạch",
@@ -37,7 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   },
   {
     "title": "Tổng quan ngành Thiết kế Vi mạch",
@@ -47,7 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   },
   {
     "title": "Tổng quan ngành Thiết kế Vi mạch",
@@ -57,7 +57,7 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   },
   {
     "title": "Tổng quan ngành Thiết kế Vi mạch",
@@ -67,6 +67,16 @@
     "field": "ngành",
     "year": null,
     "department": "Thiết kế vi mạch",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
+  },
+  {
+    "title": "Tổng quan ngành Thiết kế Vi mạch",
+    "header": "Cơ hội việc làm",
+    "content": "Website Khoa: [http://ktmt.uit.edu.vn](http://ktmt.uit.edu.vn/)",
+    "chunk_id": "tong-quan-nganh-thiet-ke-vi-mach_chunk_8",
+    "field": "ngành",
+    "year": null,
+    "department": "Thiết kế vi mạch",
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-thiet-ke-vi-mach.md"
   }
 ]

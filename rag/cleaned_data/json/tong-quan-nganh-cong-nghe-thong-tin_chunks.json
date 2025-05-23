@@ -7,7 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
@@ -17,7 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
@@ -27,7 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
@@ -37,7 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
@@ -47,7 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
@@ -57,26 +57,26 @@
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
     "header": "Cơ hội việc làm ngành Công nghệ thông tin",
-    "content": ".",
+    "content": ". . Kỹ sư chuyên khai thác dữ liệu và thông tin ứng dụng cho các doanh nghiệp trong vấn đề phân tích định lượng, nâng cao hiệu suất kinh doanh và ra quyết định. Các đơn vị: tập đoàn kinh doanh, sản xuất lớn như Samsung, IBM, CoopMart, Thế giới di động . . . Kỹ sư xây dựng, phát triển các ứng dụng về lãnh vực truyền thông xã hội và công nghệ Web, một trong những lĩnh vực nóng của CNTT. Các đơn vị chuyên phát triển phần mềm: Microsoft, Google, CMC, các công ty phần mềm khác.",
     "chunk_id": "tong-quan-nganh-cong-nghe-thong-tin_chunk_7",
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   },
   {
     "title": "Tổng quan ngành Công nghệ thông tin",
     "header": "Cơ hội việc làm ngành Công nghệ thông tin",
-    "content": ". Kỹ sư chuyên khai thác dữ liệu và thông tin ứng dụng cho các doanh nghiệp trong vấn đề phân tích định lượng, nâng cao hiệu suất kinh doanh và ra quyết định. Các đơn vị: tập đoàn kinh doanh, sản xuất lớn như Samsung, IBM, CoopMart, Thế giới di động . . . Kỹ sư xây dựng, phát triển các ứng dụng về lãnh vực truyền thông xã hội và công nghệ Web, một trong những lĩnh vực nóng của CNTT. Các đơn vị chuyên phát triển phần mềm: Microsoft, Google, CMC, các công ty phần mềm khác.",
+    "content": "Website Khoa: [https://fit.uit.edu.vn](https://fit.uit.edu.vn/)",
     "chunk_id": "tong-quan-nganh-cong-nghe-thong-tin_chunk_8",
     "field": "ngành",
     "year": null,
     "department": "Công nghệ thông tin",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-cong-nghe-thong-tin.md"
   }
 ]

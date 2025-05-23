@@ -7,7 +7,7 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
@@ -17,7 +17,7 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
@@ -27,7 +27,7 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
@@ -37,7 +37,7 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
@@ -47,7 +47,7 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
@@ -57,7 +57,7 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
@@ -67,16 +67,16 @@
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   },
   {
     "title": "[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025",
     "header": "III. Học bổng dành riêng cho SV Chương trình Tiên tiến",
-    "content": "- Sinh viên trúng tuyển vào chương trình Tiên tiến có tổng điểm tổ hợp môn (tương ứng với một trong các tổ hợp môn xét tuyển của Trường) dựa trên kết quả kỳ thi Tốt nghiệp THPT hoặc điểm thi đánh giá năng lực cao, không phân biệt hình thức trúng tuyển (theo quy định đào tạo chương trình Tiến tiến). - Danh sách sinh viên đạt học bổng do Ban Giám hiệu quyết định căn cứ vào số lượng sinh viên và phổ điểm trúng tuyển của chương trình. |  |  |  |  |\n| --- | --- | --- | --- |\n| STT | Điều kiện | Số lượng | Giá trị học bổng |\n|  | SV có điểm tổ hợp môn cao nhất | 01 suất | Tương đương 100% học phí học kỳ I năm học 2025 – 2026 |\n|  | SV có điểm đánh giá năng lực cao nhất | 01 suất | Tương đương 100% học phí học kì I năm học 2025 – 2026 |",
+    "content": "- Sinh viên trúng tuyển vào chương trình Tiên tiến có tổng điểm tổ hợp môn (tương ứng với một trong các tổ hợp môn xét tuyển của Trường) dựa trên kết quả kỳ thi Tốt nghiệp THPT hoặc điểm thi đánh giá năng lực cao, không phân biệt hình thức trúng tuyển (theo quy định đào tạo chương trình Tiến tiến). - Danh sách sinh viên đạt học bổng do Ban Giám hiệu quyết định căn cứ vào số lượng sinh viên và phổ điểm trúng tuyển của chương trình. |  |  |  |  |\n| --- | --- | --- | --- |\n| STT | Điều kiện | Số lượng | Giá trị học bổng |\n|  | SV có điểm tổ hợp môn cao nhất | 01 suất | Tương đương 100% học phí học kỳ I năm học 2025 – 2026 |\n|  | SV có điểm đánh giá năng lực cao nhất | 01 suất | Tương đương 100% học phí học kì I năm học 2025 – 2026 |\nMọi thắc mắc về Học bổng “Toàn diện – Sáng tạo – Phụng sự” năm 2025 sinh viên liên hệ email [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn) hoặc hotline: 090.883.1246 (gặp Thầy Khanh)",
     "chunk_id": "2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025_chunk_8",
     "field": "học bổng",
     "year": "2025",
     "department": null,
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
+    "source": "cleaned_data\\markdown\\2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025.md"
   }
 ]

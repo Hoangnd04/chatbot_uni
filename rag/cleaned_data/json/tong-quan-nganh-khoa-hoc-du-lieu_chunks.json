@@ -7,7 +7,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -17,7 +17,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -27,7 +27,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -37,7 +37,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -47,7 +47,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -57,7 +57,7 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Khoa học Dữ liệu",
@@ -67,6 +67,16 @@
     "field": "ngành",
     "year": null,
     "department": "Khoa học dữ liệu",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
+  },
+  {
+    "title": "Tổng quan ngành Khoa học Dữ liệu",
+    "header": "4. Nhà nghiên cứu (Data Researchers)",
+    "content": "Đó là những người áp dụng những kỹ năng được đào tạo trong khoa học cùng với các công cụ và kỹ thuật, số liệu. Một số có bằng tiến sĩ, và các ứng dụng sáng tạo các công cụ toán học mang lại những hiểu biết và sản phẩm có giá trị.",
+    "chunk_id": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_8",
+    "field": "ngành",
+    "year": null,
+    "department": "Khoa học dữ liệu",
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-khoa-hoc-du-lieu.md"
   }
 ]
