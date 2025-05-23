@@ -210,37 +210,11 @@ class HybridSearchQdrant:
     ) -> List[Dict[str, Any]]:
         query_embedding = self.embedding_model.encode([query])[0].tolist()
 
-        # Xây dựng hard filter
-        must_conditions = []
-        if filter_keywords:
-            must_conditions.append(FieldCondition(
-                key="keywords",
-                match=MatchAny(any=filter_keywords)
-            ))
-        if field:
-            must_conditions.append(FieldCondition(
-                key="field",
-                match=MatchValue(value=field)
-            ))
-        if department:
-            must_conditions.append(FieldCondition(
-                key="department",
-                match=MatchValue(value=department)
-            ))
-        if year:
-            must_conditions.append(FieldCondition(
-                key="year",
-                match=MatchValue(value=str(year))
-            ))
-
-        points_filter = Filter(must=must_conditions) if must_conditions else None
-
         results = self.qdrant_client.search(
             collection_name=self.collection_name,
             query_vector=query_embedding,
             limit=top_k * 10,
-            with_payload=True,
-            query_filter=points_filter
+            with_payload=True
         )
 
         results_with_scores = []
@@ -272,7 +246,7 @@ class HybridSearchQdrant:
         return final_results
 
 if __name__ == "__main__":
-    model = SentenceTransformer('VoVanPhuc/sup-SimCSE-VietNamese-phobert-base')
+    model = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
     search_engine = HybridSearchQdrant(
         qdrant_url=os.getenv("QDRANT_URL"),
         qdrant_api_key=os.getenv("QDRANT_API_KEY"),
