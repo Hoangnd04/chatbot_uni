@@ -39,7 +39,7 @@ def detect_department_from_name(name: str) -> str:
 def chunk_multi_year_csv(csv_path: str, output_path: str):
     chunks = []
     current_year = None
-    source = "csv_data/diemchuanUIT.csv"
+    source = "csv_data//diemchuanUIT.csv"
 
     with open(csv_path, encoding="utf-8") as f:
         reader = csv.reader(f)

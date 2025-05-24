@@ -3,860 +3,860 @@
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2023 - Mã ngành: 7340122",
     "content": "Năm 2023, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 25.8, điểm ĐGNL là 860.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3a119667-753b-4520-a438-c0d759a32e6b",
+    "chunk_id": "bed02407-8e3a-42d4-9c59-8039461e9805",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2023 - Mã ngành: 7460108",
     "content": "Năm 2023, ngành Khoa Học Dữ Liệu (mã ngành 7460108) có điểm chuẩn là 27.1, điểm ĐGNL là 915.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6548e161-d6bf-4e8c-8bb7-a69363953756",
+    "chunk_id": "d631122e-9adc-4d2f-9b84-49a77e945f4b",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "khdl",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2023 - Mã ngành: 7480101",
     "content": "Năm 2023, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 26.9, điểm ĐGNL là 915.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d62c3736-45a1-4054-92f5-ec0464336fc8",
+    "chunk_id": "d7240011-2210-4ae7-837a-ff1ebf67dcb1",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2023 - Mã ngành: 7480102",
     "content": "Năm 2023, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 25.4, điểm ĐGNL là 845.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6d2d6640-7864-4c15-92c4-3ada1399884f",
+    "chunk_id": "b3a6d42c-c5b4-4823-b4d3-7ffeea9cddc0",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2023 - Mã ngành: 7480103",
     "content": "Năm 2023, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 26.9, điểm ĐGNL là 925.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "1b42be77-23c7-4b13-9476-5c58f0aabc89",
+    "chunk_id": "e4354651-7937-41a6-9f3d-83e9181707e7",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2023 - Mã ngành: 7480104",
     "content": "Năm 2023, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.1, điểm ĐGNL là 855.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "95dfea38-3614-42c3-b2bb-c3411f011d19",
+    "chunk_id": "56e29721-91c6-4857-9e3b-aee8c3da851d",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2023 - Mã ngành: 7480104_TT",
     "content": "Năm 2023, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 25.4, điểm ĐGNL là 825.0, tổ hợp môn xét tuyển: A00;A01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "67dd6a0c-2492-43fd-aa19-e5af81a00e2f",
+    "chunk_id": "bf6bda89-e2d4-4d61-ac83-19e4b68e34b7",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2023 - Mã ngành: 7480106",
     "content": "Năm 2023, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 25.6, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00;A01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "59ed6464-e7fd-4a6a-bde3-ea8273b7758d",
+    "chunk_id": "05ece866-98c2-4331-a19a-fbaeec461684",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
     "header": "Năm 2023 - Mã ngành: 7480106-IOT",
     "content": "Năm 2023, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot) (mã ngành 7480106-IOT) có điểm chuẩn là 25.6, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00;A01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "78694f4c-9c62-4034-b135-fbdeb5e2a84e",
+    "chunk_id": "38c27af8-8aaf-441f-8c3b-915d4afe104d",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch)",
     "header": "Năm 2023 - Mã ngành: 7480106-TKVM",
     "content": "Năm 2023, ngành Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch) (mã ngành 7480106-TKVM) có điểm chuẩn là 25.4, điểm ĐGNL là 810.0, tổ hợp môn xét tuyển: A00;A01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "36347a78-2703-4991-9d0b-7c74298f677e",
+    "chunk_id": "689eb75d-0fae-4a6e-993a-72cc2b6afdc1",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Trí Tuệ Nhân Tạo",
     "header": "Năm 2023 - Mã ngành: 7480107",
     "content": "Năm 2023, ngành Trí Tuệ Nhân Tạo (mã ngành 7480107) có điểm chuẩn là 27.8, điểm ĐGNL là 970.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "5bd1a7d1-54d0-42bd-a59a-3444a0af7241",
+    "chunk_id": "4fa5c178-b1e6-46d1-92fe-749d51efbbb0",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "ttnt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2023 - Mã ngành: 7480201",
     "content": "Năm 2023, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 26.9, điểm ĐGNL là 920.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "357ba311-dc5e-4342-9ce2-b8df544fcdfc",
+    "chunk_id": "16d1ebd3-77c9-4a9b-92ab-fc363cc6673c",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Việt - Nhật)",
     "header": "Năm 2023 - Mã ngành: 7480201_N",
     "content": "Năm 2023, ngành Công Nghệ Thông Tin (Việt - Nhật) (mã ngành 7480201_N) có điểm chuẩn là 25.9, điểm ĐGNL là 845.0, tổ hợp môn xét tuyển: A00;A01;D01;D06;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c146d8c3-d72c-4c11-bfea-9b287760fe10",
+    "chunk_id": "5e9b7637-39ae-4939-8b3c-9302b902c1cc",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2023 - Mã ngành: 7480202",
     "content": "Năm 2023, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 26.3, điểm ĐGNL là 890.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "46a8a306-9dbb-4508-9bc7-0f5e8670c03f",
+    "chunk_id": "7f7d3d05-05ff-4cdb-a151-3ee64db9b119",
     "field": "tuyển sinh",
     "year": "2023",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2022 - Mã ngành: 7340122",
     "content": "Năm 2022, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 27.05, điểm ĐGNL là 852.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "5e10a125-d3fe-4ca8-97f4-086bb62ba004",
+    "chunk_id": "50ff9a88-46c4-45b0-8443-dbf153505e6b",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2022 - Mã ngành: 7480101",
     "content": "Năm 2022, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 27.1, điểm ĐGNL là 888.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "95a9b766-c3f3-4fdc-831f-c27eb67434bc",
+    "chunk_id": "7fb51245-8461-4f03-bd0f-b7e3cf171682",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2022 - Mã ngành: 7480102",
     "content": "Năm 2022, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 26.3, điểm ĐGNL là 810.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3745c0b7-935b-46ec-a611-cb877387a094",
+    "chunk_id": "b44ca225-a10e-4f80-9bd3-f92681c1b2df",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2022 - Mã ngành: 7480103",
     "content": "Năm 2022, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 28.05, điểm ĐGNL là 895.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "8c879cb0-7527-4ee4-8d17-6bdc148ec326",
+    "chunk_id": "f4070840-24a2-45bb-b690-cc19be784418",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2022 - Mã ngành: 7480104",
     "content": "Năm 2022, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.7, điểm ĐGNL là 825.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3924e4a6-fb6a-404d-a9c5-93974968f23a",
+    "chunk_id": "e9338278-bcc7-4eaa-bd4c-10ae128ab3c2",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2022 - Mã ngành: 7480104_TT",
     "content": "Năm 2022, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 26.2, điểm ĐGNL là 800.0, tổ hợp môn xét tuyển: A00;A01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "4366efb7-4679-41c3-96cb-6dbb9f9b87d5",
+    "chunk_id": "91c89b73-54ea-47ff-850e-6c97bafbff14",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2022 - Mã ngành: 7480106",
     "content": "Năm 2022, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 26.55, điểm ĐGNL là 843.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "4e60e13d-fef0-4c22-9490-ee6abafa2f6a",
+    "chunk_id": "c102e34a-1944-4379-a013-7699d9debe7f",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot",
     "header": "Năm 2022 - Mã ngành: 7480106_IOT",
     "content": "Năm 2022, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot (mã ngành 7480106_IOT) có điểm chuẩn là 26.5, điểm ĐGNL là 842.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ee1165af-4cd9-4f79-ba6a-d6d5076745ef",
+    "chunk_id": "5484d411-85a2-49f5-8d63-9bd224ff81f5",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Trí Tuệ Nhân Tạo",
     "header": "Năm 2022 - Mã ngành: 7480107",
     "content": "Năm 2022, ngành Trí Tuệ Nhân Tạo (mã ngành 7480107) có điểm chuẩn là 28.0, điểm ĐGNL là 940.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "538f252c-683c-4826-a6b0-f079fad991fd",
+    "chunk_id": "ec035f50-dd1c-4527-8e3a-58e96b6ff957",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "ttnt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2022 - Mã ngành: 7480109",
     "content": "Năm 2022, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 27.05, điểm ĐGNL là 880.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "60f436a2-80c0-4a31-b0ae-2128256df502",
+    "chunk_id": "b10c03ba-3793-4871-881b-da8a2b12fe5d",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "khdl",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2022 - Mã ngành: 7480201",
     "content": "Năm 2022, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 27.9, điểm ĐGNL là 892.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "602ed742-8009-4ed8-b619-ad988bb6c25d",
+    "chunk_id": "14a1e5b7-a8ce-4fdf-bb78-28782d2930ca",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Việt - Nhật)",
     "header": "Năm 2022 - Mã ngành: 7480201_N",
     "content": "Năm 2022, ngành Công Nghệ Thông Tin (Việt - Nhật) (mã ngành 7480201_N) có điểm chuẩn là 26.3, điểm ĐGNL là 805.0, tổ hợp môn xét tuyển: A00;A01;D01;D06;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0ae602a8-b89c-4457-9a60-3dc28255025c",
+    "chunk_id": "e50666e9-a23f-490d-90d5-5c7a85ce0d8c",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2022 - Mã ngành: 7480202",
     "content": "Năm 2022, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 26.95, điểm ĐGNL là 858.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "179b07cb-0d42-4d52-b666-7e978ee7dd8c",
+    "chunk_id": "7107a5cd-511d-40d8-af8c-2accdbb60d16",
     "field": "tuyển sinh",
     "year": "2022",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2021 - Mã ngành: 7340122",
     "content": "Năm 2021, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 26.7, điểm ĐGNL là 878.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "95c14f70-309e-4f69-a1ed-1da47b220ba1",
+    "chunk_id": "14a45b04-17d8-4cc9-8fbb-c6a145214b40",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7340122_CLCA",
     "content": "Năm 2021, ngành Thương Mại Điện Tử (Chất Lượng Cao) (mã ngành 7340122_CLCA) có điểm chuẩn là 26.3, điểm ĐGNL là 795.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "5e6d5432-38c2-4289-8fda-c0a5499099a5",
+    "chunk_id": "b1b5cfc4-7641-45a6-b775-616a1402e8cf",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2021 - Mã ngành: 7480101",
     "content": "Năm 2021, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 27.3, điểm ĐGNL là 920.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "d79e5528-51e1-4156-979b-5a43b37ac44b",
+    "chunk_id": "09d5215a-3df5-438e-9a03-ba91c7857307",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480101_CLCA",
     "content": "Năm 2021, ngành Khoa Học Máy Tính (Chất Lượng Cao) (mã ngành 7480101_CLCA) có điểm chuẩn là 26.75, điểm ĐGNL là 877.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "1cb93efd-f423-44ff-af29-2194c648a3d8",
+    "chunk_id": "ac2d5948-38ea-42ad-815b-297832025818",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
     "header": "Năm 2021 - Mã ngành: 7480101_TTNT",
     "content": "Năm 2021, ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo) (mã ngành 7480101_TTNT) có điểm chuẩn là 27.5, điểm ĐGNL là 950.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "045296c8-ed71-43f1-b70b-a4adc504b1db",
+    "chunk_id": "5f686b36-e728-43ff-9c3f-fbf6ea107a45",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ttnt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2021 - Mã ngành: 7480102",
     "content": "Năm 2021, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 26.35, điểm ĐGNL là 810.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0b12cade-252a-4fd1-bc60-4c0bf9228ff7",
+    "chunk_id": "cebbec6e-3c7c-42f8-8086-abfa074d1342",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480102_CLCA",
     "content": "Năm 2021, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao) (mã ngành 7480102_CLCA) có điểm chuẩn là 25.6, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "25506249-fd36-4092-ae10-4c3edffb3cae",
+    "chunk_id": "0f120a5f-3e59-4b6c-8a0c-213953f5b56c",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2021 - Mã ngành: 7480103",
     "content": "Năm 2021, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 27.55, điểm ĐGNL là 930.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "bd539382-0984-440a-9238-74537f153860",
+    "chunk_id": "33ea05fd-6263-4737-9f0e-2f1b672075bc",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480103_CLCA",
     "content": "Năm 2021, ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao) (mã ngành 7480103_CLCA) có điểm chuẩn là 27.0, điểm ĐGNL là 880.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "2cd17964-7414-4711-b13f-52619010ecd1",
+    "chunk_id": "8132602c-a0e6-453f-8f4a-e90cc6e2d3d3",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2021 - Mã ngành: 7480104",
     "content": "Năm 2021, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.7, điểm ĐGNL là 855.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "14153f2e-bdc1-4f3c-aad7-f5f39a8048b4",
+    "chunk_id": "f7d6f40e-5cd4-4f72-bde5-71351dbd1db9",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480104_CLCA",
     "content": "Năm 2021, ngành Hệ Thống Thông Tin (Chất Lượng Cao) (mã ngành 7480104_CLCA) có điểm chuẩn là 26.15, điểm ĐGNL là 775.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "33a763c3-ce72-4970-a857-5b1557a4e095",
+    "chunk_id": "1cbbaabb-d267-49ae-a480-15e048f6c5ac",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2021 - Mã ngành: 7480104_TT",
     "content": "Năm 2021, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 25.1, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "9addfb70-8f5c-49cf-b99c-a0952904a90a",
+    "chunk_id": "8b001b94-07a0-472a-95cb-e63ec0daffa9",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2021 - Mã ngành: 7480106",
     "content": "Năm 2021, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 26.9, điểm ĐGNL là 865.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "84bb1012-c457-4166-8ef8-554261cb902b",
+    "chunk_id": "05ff48a9-ed39-4fa8-a8af-351d4a2e524c",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480106_CLCA",
     "content": "Năm 2021, ngành Kỹ Thuật Máy Tính (Chất Lượng Cao) (mã ngành 7480106_CLCA) có điểm chuẩn là 25.9, điểm ĐGNL là 790.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "c42848d1-9cb9-471f-b144-0f1deebc042a",
+    "chunk_id": "6e5aff57-3151-4c14-9db9-7fe653e847c9",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
     "header": "Năm 2021 - Mã ngành: 7480106_IOT",
     "content": "Năm 2021, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot) (mã ngành 7480106_IOT) có điểm chuẩn là 26.4, điểm ĐGNL là 845.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "642043e8-9d15-4167-9861-5c635225b211",
+    "chunk_id": "242af576-4830-40e5-97a2-1c9857d0a518",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2021 - Mã ngành: 7480109",
     "content": "Năm 2021, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 26.65, điểm ĐGNL là 875.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3ad63d99-ea50-40dd-b738-614bc65c102e",
+    "chunk_id": "5af96926-6883-4fac-882c-bf25fd0d293b",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "khdl",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2021 - Mã ngành: 7480201",
     "content": "Năm 2021, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 27.3, điểm ĐGNL là 905.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "39f2dfa9-fc04-42df-a3e8-321246b3fdb7",
+    "chunk_id": "71a7c72a-425a-4c41-9fdd-2f2d8cfa5351",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
     "header": "Năm 2021 - Mã ngành: 7480201_CLCN",
     "content": "Năm 2021, ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản) (mã ngành 7480201_CLCN) có điểm chuẩn là 25.85, điểm ĐGNL là 795.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3f2e262e-4cde-419c-8092-6b6afa81ce19",
+    "chunk_id": "a4274910-01a8-46be-a89e-c1646062f64d",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2021 - Mã ngành: 7480202",
     "content": "Năm 2021, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 27.0, điểm ĐGNL là 880.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "e11b1ea2-3f13-4635-bfca-08749dec6be6",
+    "chunk_id": "692ff962-46b2-46c9-adfc-bf7cb417d6c8",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2021 - Mã ngành: 7480202_CLCA",
     "content": "Năm 2021, ngành An Toàn Thông Tin (Chất Lượng Cao) (mã ngành 7480202_CLCA) có điểm chuẩn là 26.45, điểm ĐGNL là 835.0, tổ hợp môn xét tuyển: A00;A01;D01;D07. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6c63a5c2-93fd-47af-89f0-5e73e78014d2",
+    "chunk_id": "240876da-82a3-4938-8a4c-565387763073",
     "field": "tuyển sinh",
     "year": "2021",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2020 - Mã ngành: 7340122",
     "content": "Năm 2020, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 26.5, điểm ĐGNL là 840.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "b05ed36f-f7ba-48de-84b4-5ba67a89f562",
+    "chunk_id": "029313c7-1ea1-413d-8518-461303672c12",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7340122-CLCA",
     "content": "Năm 2020, ngành Thương Mại Điện Tử (Chất Lượng Cao) (mã ngành 7340122-CLCA) có điểm chuẩn là 24.8, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "a18bfad3-cc40-4357-ab64-ea6875091a45",
+    "chunk_id": "a944b10c-6280-41a2-b8ea-213c0971359f",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2020 - Mã ngành: 7480101",
     "content": "Năm 2020, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 27.2, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "832e53fa-62dd-4693-87a4-965e99d26c7a",
+    "chunk_id": "c52ecf52-8627-4564-a124-0e99114d9fbb",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480101-CLCA",
     "content": "Năm 2020, ngành Khoa Học Máy Tính (Chất Lượng Cao) (mã ngành 7480101-CLCA) có điểm chuẩn là 25.7, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "02adee7e-3c01-449c-8e96-47cdc9aaef4b",
+    "chunk_id": "39ac913d-ae62-40c2-aaaa-8a03df2a6f69",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
     "header": "Năm 2020 - Mã ngành: 7480101-TTNT",
     "content": "Năm 2020, ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo) (mã ngành 7480101-TTNT) có điểm chuẩn là 27.1, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "27dcc656-3547-4e7e-90ab-9529cfb96d3f",
+    "chunk_id": "774d813f-e52d-4214-a401-c0c523994cf1",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ttnt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2020 - Mã ngành: 7480102",
     "content": "Năm 2020, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 26.0, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0bd1ddf0-6809-48c3-a835-0da090adc178",
+    "chunk_id": "fb9aa54e-b30c-4294-a646-f9b4f4356eae",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480102-CLCA",
     "content": "Năm 2020, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao) (mã ngành 7480102-CLCA) có điểm chuẩn là 23.6, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "94767299-6a20-41b5-bb89-336d355abb93",
+    "chunk_id": "9b5b517d-a018-47a3-aa46-3afd3c2cc618",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2020 - Mã ngành: 7480103",
     "content": "Năm 2020, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 27.7, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "02c492a8-01a0-4b31-9ffa-13c8ac4f4b31",
+    "chunk_id": "dcf00d67-28d1-4957-9af1-4d28a0e03a88",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480103-CLCA",
     "content": "Năm 2020, ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao) (mã ngành 7480103-CLCA) có điểm chuẩn là 26.3, điểm ĐGNL là 800.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "27b3c0a1-6ce5-41dc-abd3-ba4a59e44cd7",
+    "chunk_id": "8ebdcbdd-651f-4f53-abf1-548873cc5953",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2020 - Mã ngành: 7480104",
     "content": "Năm 2020, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 26.3, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "7a6b4614-b3de-4dd2-b038-c4dca63adef6",
+    "chunk_id": "7ac4cb20-8c7c-4a4d-83d7-8ba5ca3b62e4",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin(Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480104-CLCA",
     "content": "Năm 2020, ngành Hệ Thống Thông Tin(Chất Lượng Cao) (mã ngành 7480104-CLCA) có điểm chuẩn là 24.7, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "fb3d79eb-6eb0-4ddc-b9dc-0dbd612a48ec",
+    "chunk_id": "56c776e7-e0aa-4c9a-afe5-30ee0ae7378e",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin ( Tiên Tiến )",
     "header": "Năm 2020 - Mã ngành: 7480104-TT",
     "content": "Năm 2020, ngành Hệ Thống Thông Tin ( Tiên Tiến ) (mã ngành 7480104-TT) có điểm chuẩn là 22.0, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "52f053f0-73d4-4d64-b4d3-5906fdf842f1",
+    "chunk_id": "42de7e0e-661e-4957-9cb1-995c01346e6d",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2020 - Mã ngành: 7480106",
     "content": "Năm 2020, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 26.7, điểm ĐGNL là 820.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "176357a0-5797-40d6-bed4-bdad1354c26a",
+    "chunk_id": "5079a10c-06b2-46c9-b4f1-406eab902ff2",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao )",
     "header": "Năm 2020 - Mã ngành: 7480106-CLCA",
     "content": "Năm 2020, ngành Kỹ Thuật Máy Tính (Chất Lượng Cao ) (mã ngành 7480106-CLCA) có điểm chuẩn là 24.2, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0490460e-3d17-4de5-9b15-119640f48b8e",
+    "chunk_id": "7946fa77-cb14-4f6b-981a-0d49f053b1db",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
     "header": "Năm 2020 - Mã ngành: 7480106-IOT",
     "content": "Năm 2020, ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot) (mã ngành 7480106-IOT) có điểm chuẩn là 26.0, điểm ĐGNL là 780.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "f51570b4-4937-447f-b083-18428a91c98c",
+    "chunk_id": "42405b74-1186-4350-a574-812cbc728239",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2020 - Mã ngành: 7480109",
     "content": "Năm 2020, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 25.9, điểm ĐGNL là 830.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "cfef316c-f9ef-432a-b521-7f7616464867",
+    "chunk_id": "fa5ec424-be1e-4aed-8e47-e3c662fc746d",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "khdl",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2020 - Mã ngành: 7480201",
     "content": "Năm 2020, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 27.0, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "857af8c9-af77-4b11-87b0-adae32c12819",
+    "chunk_id": "184eda16-a648-4b6f-aac5-0ca1e9e7e755",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản )",
     "header": "Năm 2020 - Mã ngành: 7480201-CLCN",
     "content": "Năm 2020, ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản ) (mã ngành 7480201-CLCN) có điểm chuẩn là 23.7, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "505656d5-9bb8-43f2-a0f3-03969ee8fba3",
+    "chunk_id": "45ca90d8-66cb-4640-a228-c66ec663f409",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2020 - Mã ngành: 7480202",
     "content": "Năm 2020, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 26.7, điểm ĐGNL là 850.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "89040752-e17d-406e-bb72-bacc8acd347b",
+    "chunk_id": "0453bc7a-2507-4074-aa6d-159ccfe47959",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2020 - Mã ngành: 7480202_CLCA",
     "content": "Năm 2020, ngành An Toàn Thông Tin (Chất Lượng Cao) (mã ngành 7480202_CLCA) có điểm chuẩn là 25.3, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: . Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0f6b8563-d4e6-4bb7-8b89-89f5f3a039b3",
+    "chunk_id": "caa71a58-5ebc-4c51-a7ea-81c5658480c5",
     "field": "tuyển sinh",
     "year": "2020",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử",
     "header": "Năm 2019 - Mã ngành: 7340122",
     "content": "Năm 2019, ngành Thương Mại Điện Tử (mã ngành 7340122) có điểm chuẩn là 23.9, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "067c8b46-787c-486d-9c2d-8eb6ab788b83",
+    "chunk_id": "2734d82e-ca1a-419d-8eb2-c7d9d7c0246d",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7340122_CLCA",
     "content": "Năm 2019, ngành Thương Mại Điện Tử (Chất Lượng Cao) (mã ngành 7340122_CLCA) có điểm chuẩn là 21.05, điểm ĐGNL là 790.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "91807e10-ceba-4d78-a5c0-e044b9dbf833",
+    "chunk_id": "c8d40da2-2a0a-4936-97ce-05d6f73d8e87",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "tmdt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính",
     "header": "Năm 2019 - Mã ngành: 7480101",
     "content": "Năm 2019, ngành Khoa Học Máy Tính (mã ngành 7480101) có điểm chuẩn là 25.55, điểm ĐGNL là 980.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ce073596-3e93-4255-bd0d-d94d3105f05e",
+    "chunk_id": "6b477978-06f2-4167-bb32-bec0ecf8784d",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480101_CLCA",
     "content": "Năm 2019, ngành Khoa Học Máy Tính (Chất Lượng Cao) (mã ngành 7480101_CLCA) có điểm chuẩn là 22.65, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "ba92927d-1d5c-4b00-b22f-d7cf297eb128",
+    "chunk_id": "65af106d-c2d4-4d35-a73f-0c7bd38a8e8d",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "khmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
     "header": "Năm 2019 - Mã ngành: 7480102",
     "content": "Năm 2019, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (mã ngành 7480102) có điểm chuẩn là 23.2, điểm ĐGNL là 840.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "71b2b2ab-41e0-445d-a631-72adb51e6ba4",
+    "chunk_id": "17bc33d0-50ae-476b-ae75-6585918d2a75",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480102_CLCA",
     "content": "Năm 2019, ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao) (mã ngành 7480102_CLCA) có điểm chuẩn là 20.0, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "69b5b975-59fd-44cf-8e21-e2830d6d008c",
+    "chunk_id": "33f52143-c799-4f93-afe7-bf9089403fc3",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ngành",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm",
     "header": "Năm 2019 - Mã ngành: 7480103",
     "content": "Năm 2019, ngành Kỹ Thuật Phần Mềm (mã ngành 7480103) có điểm chuẩn là 25.3, điểm ĐGNL là 960.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3d8654bc-15d3-44dd-952d-da79b5276a89",
+    "chunk_id": "32f37d90-6f91-4fc5-8530-98a23546c801",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480103_CLCA",
     "content": "Năm 2019, ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao) (mã ngành 7480103_CLCA) có điểm chuẩn là 23.2, điểm ĐGNL là 890.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "fd6833f9-c895-4724-ab50-6e06910569de",
+    "chunk_id": "423d9341-9d63-4f98-87fd-288ec2fedc79",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktpm",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin",
     "header": "Năm 2019 - Mã ngành: 7480104",
     "content": "Năm 2019, ngành Hệ Thống Thông Tin (mã ngành 7480104) có điểm chuẩn là 23.5, điểm ĐGNL là 860.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "08961f63-87e2-47aa-89bc-00bcd93100f0",
+    "chunk_id": "d4b8ebeb-84a1-46e0-b8d9-78b97042a928",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480104_CLCA",
     "content": "Năm 2019, ngành Hệ Thống Thông Tin (Chất Lượng Cao) (mã ngành 7480104_CLCA) có điểm chuẩn là 21.4, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "aa26919d-713f-4eb0-91e4-a799166c8192",
+    "chunk_id": "9533541a-d272-4d63-a866-af6646c454b6",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
     "header": "Năm 2019 - Mã ngành: 7480104_TT",
     "content": "Năm 2019, ngành Hệ Thống Thông Tin (Tiên Tiến) (mã ngành 7480104_TT) có điểm chuẩn là 17.8, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "0daad578-c5bf-4307-a768-c31689da4963",
+    "chunk_id": "ad20a59b-333d-42fa-8910-c49968e6a6d7",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "httt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính",
     "header": "Năm 2019 - Mã ngành: 7480106",
     "content": "Năm 2019, ngành Kỹ Thuật Máy Tính (mã ngành 7480106) có điểm chuẩn là 23.8, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "74160506-b391-4bf3-ab43-735469a979d9",
+    "chunk_id": "95897096-8a39-42ac-88af-7e2a06dbd714",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480106_CLCA",
     "content": "Năm 2019, ngành Kỹ Thuật Máy Tính (Chất Lượng Cao) (mã ngành 7480106_CLCA) có điểm chuẩn là 21.0, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "046553f0-c576-4bbc-bcfc-c69b00bc0eb5",
+    "chunk_id": "44115cfe-61ac-4cc4-8e8a-fa07285da105",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "ktmt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Khoa Học Dữ Liệu",
     "header": "Năm 2019 - Mã ngành: 7480109",
     "content": "Năm 2019, ngành Khoa Học Dữ Liệu (mã ngành 7480109) có điểm chuẩn là 23.5, điểm ĐGNL là 870.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "63860770-0716-4217-9450-cf39686f8cb8",
+    "chunk_id": "4d0edccc-46c4-4720-b014-73a490f17381",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "khdl",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin",
     "header": "Năm 2019 - Mã ngành: 7480201",
     "content": "Năm 2019, ngành Công Nghệ Thông Tin (mã ngành 7480201) có điểm chuẩn là 24.65, điểm ĐGNL là 950.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "721fc588-ce02-4631-a612-609d7b69cf19",
+    "chunk_id": "1470b921-0ee3-4c2b-825b-76e5c6016493",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre)",
     "header": "Năm 2019 - Mã ngành: 7480201_BT",
     "content": "Năm 2019, ngành Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre) (mã ngành 7480201_BT) có điểm chuẩn là 22.9, điểm ĐGNL là 850.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "6721f2fb-9612-449d-ba7f-6e010c81d761",
+    "chunk_id": "983b17b2-8938-4340-8fc0-648f963a0d81",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
     "header": "Năm 2019 - Mã ngành: 7480201_CLCN",
     "content": "Năm 2019, ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản) (mã ngành 7480201_CLCN) có điểm chuẩn là 21.3, điểm ĐGNL là 750.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "3e0d7af8-bbf5-4aa7-ab6a-2e74f9bd83e2",
+    "chunk_id": "7db1fbb0-1c04-4631-b6f2-4f217f88222d",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "cntt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin",
     "header": "Năm 2019 - Mã ngành: 7480202",
     "content": "Năm 2019, ngành An Toàn Thông Tin (mã ngành 7480202) có điểm chuẩn là 24.45, điểm ĐGNL là 900.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "a10f2b58-ee5c-4dac-964c-013b89f54b3f",
+    "chunk_id": "2918a85f-3349-498f-8ba9-0675aa28c0c1",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   },
   {
     "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
     "header": "Năm 2019 - Mã ngành: 7480202_CLCA",
     "content": "Năm 2019, ngành An Toàn Thông Tin (Chất Lượng Cao) (mã ngành 7480202_CLCA) có điểm chuẩn là 22.0, điểm ĐGNL là 800.0, tổ hợp môn xét tuyển: A00, A01, D01. Phương thức xét tuyển: điểm thi THPT và ĐGNL.",
-    "chunk_id": "2ec9fab0-940d-4213-8930-75b0e64ed18f",
+    "chunk_id": "47fb8146-ad68-46ff-ae80-36df762b07b7",
     "field": "tuyển sinh",
     "year": "2019",
     "department": "attt",
-    "source": "csv_data/diemchuanUIT.csv"
+    "source": "csv_data//diemchuanUIT.csv"
   }
 ]
